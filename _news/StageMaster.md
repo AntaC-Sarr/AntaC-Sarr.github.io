@@ -5,6 +5,6 @@ inline: true
 ---
 
 
-🌎🌦🌊 20021-2022 Master & PhD project opportunities in Paleoclimate modeling [here](https://ydonnadieu.github.io/Opportunities/) ! 
+🌎🌦🌊 2021-2022 Master & PhD project opportunities in Paleoclimate modeling [here](https://ydonnadieu.github.io/Opportunities/) ! 
 
 
