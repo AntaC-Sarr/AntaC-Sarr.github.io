@@ -14,7 +14,7 @@ nav: true
 - __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Reconciling South Asian Monsoon Rainfall and Wind Histories, _in review_.
 
 - Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality , _in revision_. [[preprint](https://www.researchsquare.com/article/rs-100744/v1){:target="_blank"}]
-  - Associated Data [(https://www.seanoe.org/data/00728/84031/){:target="_blank"}]
+  -  [[Associated Data](https://www.seanoe.org/data/00728/84031/){:target="_blank"}]
 
 
 <p>&nbsp;</p>
