@@ -22,6 +22,7 @@ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donna
 #### Published
 
 ###### `2021`
+__[11]__ Salles, T., Mallard, C., Husson, L., Zahirovic, S., __Sarr, A-C.__, Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia (2021), Communications earth & environment 2. [[link](https://www.nature.com/articles/s43247-021-00311-7){:target="_blank"}]
 
 __[10]__ Burls, N.J., Bradshaw, C.D., De Boer, A.M., Herold, N., Huber, M., Pound, M., Donnadieu, Y., Farnsworth, A., Frigola, A., Gasson, E., von der Heydt, A.S., Hutchinson, D.K., Knorr, G., Lawrence, K.T., Lear, C.H., Li, Xiangyu, Lohmann, G., Lunt, D.J., Marzocchi, A., Prange, M., Riihimaki, C.A, __Sarr A.-C.__, Siler, N. and Zhang, Z., Simulating Miocene warmth: insights from an opportunistic Multi-Model ensemble (MioMIP1) (2021). Paleoceanography and Paleoclimatology 35(6):e2020PA004054. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020PA004054){:target="_blank"}]
 
