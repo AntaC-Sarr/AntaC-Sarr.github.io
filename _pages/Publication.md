@@ -8,7 +8,7 @@ nav: true
 <p>&nbsp;</p>
 
 #### Submitted / under review
-Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _in discussion_ at Climate of the Past [[preprint](https://cp.copernicus.org/preprints/cp-2021-77/){:target="_blank"}]
+Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _in discussion_ at Climate of the Past [[link](https://cp.copernicus.org/preprints/cp-2021-77/){:target="_blank"}]
 
 
 __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Reconciling South Asian Monsoon Rainfall and Wind Histories, _in review_.
