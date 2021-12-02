@@ -33,6 +33,7 @@ Ongoing collaborations now aim at investigating the impact of those mantle-drive
 
   
 #### Associated publications 
+- Salles, T., Mallard, C., Husson, L., Zahirovic, S., Sarr, A-C., Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia (2021), Communications earth & environment 2.
 
 - Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853
       
