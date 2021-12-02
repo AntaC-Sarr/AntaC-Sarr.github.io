@@ -24,7 +24,11 @@ __[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, 
 
  - Associated data : Beaufort L., Bolton C., Sarr A-C. (2021). Morphometry, and mass accumulation rates of Indo-Pacific Pleistocene coccoliths and associated Climatic Simulations. SEANOE. [[link](https://www.seanoe.org/data/00728/84031/){:target="_blank"}]
  
+ - View also _News & Views_ by R. Rickaby  [[link](https://www.nature.com/articles/d41586-021-03549-5){:target="_blank"}]
+ 
 __[11]__ Salles, T., Mallard, C., Husson, L., Zahirovic, S., __Sarr, A-C.__, Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia (2021), Communications earth & environment 2. [[link](https://www.nature.com/articles/s43247-021-00311-7){:target="_blank"}]
+
+ - View also _Behind the Paper_ by T. Salles [[link](https://ecoevocommunity.nature.com/posts/a-migration-superhighway-across-now-flooded-southeast-asia){:target="_blank"}]
 
 __[10]__ Burls, N.J., Bradshaw, C.D., De Boer, A.M., Herold, N., Huber, M., Pound, M., Donnadieu, Y., Farnsworth, A., Frigola, A., Gasson, E., von der Heydt, A.S., Hutchinson, D.K., Knorr, G., Lawrence, K.T., Lear, C.H., Li, Xiangyu, Lohmann, G., Lunt, D.J., Marzocchi, A., Prange, M., Riihimaki, C.A, __Sarr A.-C.__, Siler, N. and Zhang, Z., Simulating Miocene warmth: insights from an opportunistic Multi-Model ensemble (MioMIP1) (2021). Paleoceanography and Paleoclimatology 35(6):e2020PA004054. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020PA004054){:target="_blank"}]
 
