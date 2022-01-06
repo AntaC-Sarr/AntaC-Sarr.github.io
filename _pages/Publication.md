@@ -20,9 +20,13 @@ __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau
 
 #### Published
 
-###### `2021`
+###### `2022`
 
-__[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality (2021), Nature. [[link](https://rdcu.be/cCqxv){:target="_blank"}]
+__[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality 601:79-84 (2022), Nature. [[link](https://rdcu.be/cCqxv){:target="_blank"}]
+
+<p>&nbsp;</p>
+
+###### `2021`
 
  - Associated data : Beaufort L., Bolton C., Sarr A-C. (2021). Morphometry, and mass accumulation rates of Indo-Pacific Pleistocene coccoliths and associated Climatic Simulations. SEANOE. [[link](https://www.seanoe.org/data/00728/84031/){:target="_blank"}]
  
