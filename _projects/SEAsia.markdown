@@ -33,6 +33,8 @@ Ongoing collaborations now aim at investigating the impact of those mantle-drive
 
   
 #### Associated publications 
+- Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus, B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and Sarr A-C. Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022).
+
 - Salles, T., Mallard, C., Husson, L., Zahirovic, S., Sarr, A-C., Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia (2021), Communications earth & environment 2.
 
 - Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853
