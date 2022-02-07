@@ -22,7 +22,9 @@ __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau
 
 ###### `2022`
 
-__[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality 601:79-84 (2022), Nature. [[link](https://rdcu.be/cCqxv){:target="_blank"}]
+__[13]__ Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus,  B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and __Sarr A-C.__ Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022). [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC010167){:target="_blank"}]
+
+__[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality. Nature, 601:79-84 (2022). [[link](https://rdcu.be/cCqxv){:target="_blank"}]
 
 
  - Associated data : Beaufort L., Bolton C., Sarr A-C. (2021). Morphometry, and mass accumulation rates of Indo-Pacific Pleistocene coccoliths and associated Climatic Simulations. SEANOE. [[link](https://www.seanoe.org/data/00728/84031/){:target="_blank"}]
