@@ -12,5 +12,5 @@ Orbital parameters (obliquity, precession, eccentricity) describe the position o
 
 #### Associated publications 
 
-- Beaufort, L., Bolton, C., Sarr A-C., Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. (2021). Cyclic evolution of phytoplankton forced by tropical seasonality, Nature.
+- Beaufort, L., Bolton, C., Sarr A-C., Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. (2022). Cyclic evolution of phytoplankton forced by tropical seasonality, Nature, 601:79-84.
 
