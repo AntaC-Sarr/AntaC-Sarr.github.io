@@ -12,8 +12,8 @@ Martinot, C., Bolton, C.T.,__Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & 
 
 Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _in discussion_ at Climate of the Past [[link](https://cp.copernicus.org/preprints/cp-2021-77/){:target="_blank"}]
 
-
-__Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Reconciling South Asian Monsoon Rainfall and Wind Histories, _in review_.
+__Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Reconciling South Asian Monsoon Rainfall and Wind Histories, _accepted_.
+ - Associated data : Sarr A-C. (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during the Miocene in response to change in regional topography. Zenodo. [[link](https://doi.org/10.5281/zenodo.5727042){:target="_blank"}]
 
 
 <p>&nbsp;</p>
@@ -31,7 +31,7 @@ __[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, 
  
  - View also _News & Views_ by R. Rickaby  [[link](https://www.nature.com/articles/d41586-021-03549-5){:target="_blank"}]
  
- - Listen to C. Bolton in cyclostratigraphy posdcast [[link](https://open.spotify.com/episode/1FSUZWOpzWn3xsCkIdT1b0?si=UI-k9wraRDGc6pbRLzrifA&nd=1){:target="_blank"}]
+ - Listen to C. Bolton in the CycloPod posdcast [[link](https://open.spotify.com/episode/1FSUZWOpzWn3xsCkIdT1b0?si=UI-k9wraRDGc6pbRLzrifA&nd=1){:target="_blank"}]
   
  <p>&nbsp;</p>
 
