@@ -10,7 +10,7 @@ nav: true
 #### Submitted / under review
 Martinot, C., Bolton, C.T.,__Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean. Preprint :[[link](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}]
 
-Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _in discussion_ at Climate of the Past [[link](https://cp.copernicus.org/preprints/cp-2021-77/){:target="_blank"}]
+Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. _accepted_ at Climate of the Past [[link](https://cp.copernicus.org/preprints/cp-2021-77/){:target="_blank"}]
 
 __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Reconciling South Asian Monsoon Rainfall and Wind Histories, _accepted_.
  - Associated data : Sarr A-C. (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during the Miocene in response to change in regional topography. Zenodo. [[link](https://doi.org/10.5281/zenodo.5727042){:target="_blank"}]
