@@ -73,7 +73,7 @@ __[4]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., El
 
 __[3]__ Husson, L., Pastier, A-M., Elliot, M., Pedoja, K., Paillard, D., Authemayou, C., __Sarr, A-C.__, Schmitt, A., Cahyarini, S. Y., Hantoro, W. S. (2018). Reef carbonate productivity during Quaternary glacial oscillations. Geochemistry, Geophysics, Geosystems, 19:1148-1164. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GC007335){:target="_blank"}]
 
-__[2]__ Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., __Sarr, A-C.__, Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G. (2018) On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57. 
+__[2]__ Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., __Sarr, A-C.__, Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G. (2018) On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57. [[link](https://hal-normandie-univ.archives-ouvertes.fr/hal-01983439/document){:target="_blank"}]
 
 <p>&nbsp;</p>
 
