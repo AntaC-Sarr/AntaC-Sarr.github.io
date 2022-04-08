@@ -12,15 +12,13 @@ Pillot, Q., Donnadieu, Y., __Sarr, A-C__, Ladant, J-B., Succhéras-Marx, B. Evol
 
 Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, submitted to Paleoclimatology, Paleoceanography. Preprint :[[link](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}]
 
-__Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. RNeogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, _accepted_.
- - Associated data : Sarr A-C. (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during the Miocene in response to change in regional topography. Zenodo. [[link](https://doi.org/10.5281/zenodo.5727042){:target="_blank"}]
-
-
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2022`
+__[15]__ __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. RNeogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, _accepted_.
+ - Associated data : Sarr A-C. (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during the Miocene in response to change in regional topography. Zenodo. [[link](https://doi.org/10.5281/zenodo.5727042){:target="_blank"}]
 
 __[14]__ Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, K., Tachikawa, K., Marino, G., Rohling, E.J., __Sarr, A-C.__, Andersen, N. Secular and orbital-scale variability of equatorial Indian Ocean summer monsoon winds during the late Miocene. Climate of the Past 18:713–738 (2022) [[link](https://cp.copernicus.org/articles/18/713/2022/){:target="_blank"}]
 
