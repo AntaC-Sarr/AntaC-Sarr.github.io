@@ -65,7 +65,7 @@ __[6]__ __Sarr, A-C.__, Mugnier, J-L., Abrahami, R., Carcaillet, J., Ravanel, L.
 
 __[5]__ __Sarr, A-C.__, Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029971){:target="_blank"}]
 
-__[4]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122. 
+__[4]__ __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122.  [[link](https://hal.archives-ouvertes.fr/hal-02440378/document){:target="_blank"}]
 
 <p>&nbsp;</p>
 
