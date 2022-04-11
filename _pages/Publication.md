@@ -24,6 +24,8 @@ __[14]__ Bolton, C.T., Gray, E., Kuhnt, W.,  Holbourn, A., Lübbers, J., Grant, 
 
 __[13]__ Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus,  B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and __Sarr A-C.__ Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022). [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GC010167){:target="_blank"}]
 
+- View also Highlight on _EOS_ by C.Faccenna [[link](https://eos.org/editor-highlights/transient-mantle-flow-triggers-morphotectonic-activity-in-asia){:target="_blank"}]
+
 __[12]__ Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosenthal, Y., Donnadieu, Y., Barbarin, N., Bova, S., Cornuault, P., Gally, Y., Gray, E., Mazur, J-C., and Tetard, M. Cyclic evolution of phytoplankton forced by tropical seasonality. Nature, 601:79-84 (2022). [[link](https://rdcu.be/cCqxv){:target="_blank"}]
 
 
