@@ -18,5 +18,8 @@ Over the past million years, evolution of paleogeography has been responsible fo
     </div>
 </div>
 <div class="caption">
-    Left - early Miocene geography (from Poblete et al. 2021). Right - late Miocene geography (from Sarr et al. in review)
+    Left - early Miocene geography (from Poblete et al. 2021). Right - late Miocene geography (from Sarr et al., 2022)
 </div>
+
+#### Associated publications 
+- Sarr, A.-C., Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, published online (2022)
