@@ -13,12 +13,12 @@ horizontal: false
 
 `From Sept. 2019`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
-- Project : Climate of the Miocene
-- Project : Cretaceous climate and carbon cycle
+- Project :  Impact of paleogeography on the climate evolution during the Miocene
+- Project :  Orbital variations, ocean biogeochemistry and continental weathering
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
-`2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre), Grenoble Alpes University (Grenoble, France) and LSCE (Paris, France)
+`2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -- Grenoble, France) and LSCE (Paris, France)
 
 - Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
 
@@ -44,3 +44,6 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 ### Supervision
 
 - __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months) 
+
+### Services
+__Review for :__  Climate of the Past, Paleoclimatology & Paleoceanography
