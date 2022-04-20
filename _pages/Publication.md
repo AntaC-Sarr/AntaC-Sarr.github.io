@@ -10,7 +10,7 @@ nav: true
 #### Submitted / under review
 Pillot, Q., Donnadieu, Y., __Sarr, A-C__, Ladant, J-B., Succhéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland ice sheet and the Tethys seaway, in revision Paleoclimatology, Paleoceanography.
 
-Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, in revision for Paleoclimatology, Paleoceanography. Preprint :[[link](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}]
+Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, in revision for Paleoclimatology, Paleoceanography. [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}]
 
 <p>&nbsp;</p>
 
