@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 <p>&nbsp;</p>
-(*) sollicited (**) upcoming ; 
+(*) sollicited, (**) upcoming  
 
 ### Oral Presentations
 
