@@ -32,6 +32,7 @@ __Sarr, A-C.__, Mugnier, J-L, Abrahami, R. et al. Sidewalls erosion at the surro
 
 
 <p>&nbsp;</p>
+
 ### Posters
 
 (**) __Sarr, A-C.__, Laugié, M., Donnadieu, Y. et al. Orbital-scale deoxygenation trends driven by ventilation in Cretaceous ocean. ICP14, Bergen (Norway) 2022.
