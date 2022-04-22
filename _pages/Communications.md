@@ -1,6 +1,6 @@
 ---
 layout: smallfont_page
-permalink: /communication/
+permalink: /communications/
 title: Communications
 description: 
 nav: true
