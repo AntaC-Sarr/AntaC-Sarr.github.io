@@ -1,13 +1,13 @@
 ---
 layout: smallfont_page
 permalink: /communication/
-title: Communication
+title: Communications
 description: 
 nav: true
 ---
 <p>&nbsp;</p>
 
-_Updated list of selected communication at conferences_
+_Updated list of selected communications at conferences_
 
 (*) sollicited, (**) upcoming  
 
