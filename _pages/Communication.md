@@ -1,14 +1,17 @@
 ---
 layout: smallfont_page
 permalink: /communication/
-title: Communications
+title: Communication
 description: 
 nav: true
 ---
 <p>&nbsp;</p>
+
+Updated list of selected communication at conferences
+
 (*) sollicited, (**) upcoming  
 
-### Oral Presentations
+#### Oral Presentations
 
 (*)(**) __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Reconciling South Asian Monsoon Wind and Rainfall. EGU, Wien (Austria) 2022.
 
@@ -33,7 +36,7 @@ __Sarr, A-C.__, Mugnier, J-L, Abrahami, R. et al. Sidewalls erosion at the surro
 
 <p>&nbsp;</p>
 
-### Posters
+#### Posters
 
 (**) __Sarr, A-C.__, Laugié, M., Donnadieu, Y. et al. Orbital-scale deoxygenation trends driven by ventilation in Cretaceous ocean. ICP14, Bergen (Norway) 2022.
 
