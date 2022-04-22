@@ -7,7 +7,7 @@ nav: true
 ---
 <p>&nbsp;</p>
 
-Updated list of selected communication at conferences
+_Updated list of selected communication at conferences_
 
 (*) sollicited, (**) upcoming  
 
