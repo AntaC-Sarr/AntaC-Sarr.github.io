@@ -13,9 +13,9 @@ _Updated list of selected communications at conferences_
 
 #### Oral Presentations
 
-[9] (*)(**) __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Reconciling South Asian Monsoon Wind and Rainfall. EGU, Wien (Austria) 2022.
+[9] (*) __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Reconciling South Asian Monsoon Wind and Rainfall. EGU, Wien (Austria) 2022.
 
-[8] (**) __Sarr, A-C.__,  Laugié, M., Donnadieu, Y. et al. Orbital-scale deoxygenation trends driven by ventilation in Cretaceous ocean. EGU, Wien (Austria) 2022.
+[8] __Sarr, A-C.__,  Laugié, M., Donnadieu, Y. et al. Orbital-scale deoxygenation trends driven by ventilation in Cretaceous ocean. EGU, Wien (Austria) 2022.
 
 [7] Tardif, D., __Sarr, A-C.__, Fluteau, F., et al. Contrôle paléogéographique des moussons asiatiques au Cénozoïque : le Tibet et (surtout) tous les autres. RST, Lyon (France) 2021.
 
@@ -42,4 +42,4 @@ _Updated list of selected communications at conferences_
 
 [2] __Sarr, A-C.__, Husson, L., Sepulchre, P. et al. Dynamic foundering of the Sunda shelf during the Quaternary revealed by coral reef geomorphology: impact on the external spheres of the Earth. EGU, Wien (Austria) 2018.
 
-[1] __Sarr, A.-C__, Maillet, M., Chassagnac, D., Laffay, M., Potel, S., Low-grade metamorphic study based on Àrkai Index and Kübler Index correlation in Markstein basin (Southern Vosges, NE France). 21ème Réunion des Science de la Terre, Pau (France) 2014.
+[1] __Sarr, A.-C__, Maillet, M., Chassagnac, D., Laffay, M., Potel, S., Low-grade metamorphic study based on Àrkai Index and Kübler Index correlation in Markstein basin (Southern Vosges, NE France). 21ème Réunion des Sciences de la Terre, Pau (France) 2014.
