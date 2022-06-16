@@ -1,4 +1,4 @@
-
+---
 layout: smallfont_page
 permalink: /randomstuffs/
 title: Random
@@ -10,6 +10,8 @@ nav: true
 __About my work__ :
 
 [CycloPod # 11](https://rss.com/podcasts/cyclopod/521228/) with David de Vleeschouwer, where we discuss Miocene climate 
+
+<p>&nbsp;</p>
 
 __Work by colleagues that worth being read and followed__ : 
 
