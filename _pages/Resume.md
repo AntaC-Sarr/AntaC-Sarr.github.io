@@ -46,4 +46,4 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 - __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months) 
 
 ### Services
-__Review for :__  Climate of the Past, Paleoclimatology & Paleoceanography
+__Review for :__  Climate of the Past (2), Paleoclimatology & Paleoceanography (2), Geophysical Research Letters (1)
