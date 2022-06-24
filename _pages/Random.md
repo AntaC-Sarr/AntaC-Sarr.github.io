@@ -7,7 +7,7 @@ nav: true
 ---
 <p>&nbsp;</p>
 
-__About my work__ :
+__Around publications__ :
 
 [[CycloPod # 11](https://rss.com/podcasts/cyclopod/521228/){:target="_blank"}] with David de Vleeschouwer, where we discuss Miocene climate.
 
