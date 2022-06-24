@@ -7,12 +7,12 @@ nav: true
 ---
 <p>&nbsp;</p>
 
-#### Submitted / under review
+#### Under review / Preprints
 __[18]__ __Sarr, A-C__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, under review.
 
-__[17]__ Pillot, Q., Donnadieu, Y., __Sarr, A-C__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland ice sheet and the Tethys seaway, in revision for Paleoclimatology, Paleoceanography.[[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511690.1){:target="_blank"}]
+__[17]__ Pillot, Q., Donnadieu, Y., __Sarr, A-C__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland ice sheet and the Tethys seaway, in revision for Paleoclimatology, Paleoceanography [[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511690.1){:target="_blank"}].
 
-__[16]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, in revision for Paleoclimatology, Paleoceanography. [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}]
+__[16]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, in revision for Paleoclimatology, Paleoceanography [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}].
 
 <p>&nbsp;</p>
 
