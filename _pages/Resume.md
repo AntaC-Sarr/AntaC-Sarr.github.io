@@ -11,7 +11,7 @@ horizontal: false
 
 ### Research Experiences
 
-`From Sept. 2019`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+`Sept. 2019 - Oct. 2022`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
 - Project :  Impact of paleogeography on the climate evolution during the Miocene
 - Project :  Orbital variations, ocean biogeochemistry and continental weathering
@@ -44,6 +44,10 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 ### Supervision
 
 - __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months) 
+
+### Teaching
+
+- Invited instructor at [[Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"}] on Paleoclimate and Paleoceanography (USSP 2022), Italy
 
 ### Services
 __Review for :__  Climate of the Past (2), Paleoclimatology & Paleoceanography (2), Geophysical Research Letters (1)
