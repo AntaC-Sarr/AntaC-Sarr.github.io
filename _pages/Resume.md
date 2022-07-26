@@ -11,10 +11,17 @@ horizontal: false
 
 ### Research Experiences
 
-`Sep. 2019 - Oct. 2022`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+`Sep. 2020 - Oct. 2022`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
-- Project :  Impact of paleogeography on the climate evolution during the Miocene
-- Project :  Orbital variations, ocean biogeochemistry and continental weathering
+- Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
+Supervisor : Dr. Yannick Donnadieu
+
+_Paleoclimate modeling. Ocean biogeochemistry modeling. Continental weathering modeling_
+
+`Sep. 2019 - Sept. 2020`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+
+- Project [1 year] :  Impact of paleogeography on the climate evolution during the Miocene.
+Supervisor : Dr. Yannick Donnadieu
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
