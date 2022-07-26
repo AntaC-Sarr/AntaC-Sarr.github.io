@@ -47,7 +47,7 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 
 ### Teaching
 
-- Invited instructor at [[Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"}] on Paleoclimate and Paleoceanography (USSP 2022), Italy
+- Invited instructor at [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022), Italy
 
 ### Services
 __Review for :__  Climate of the Past (2), Paleoclimatology & Paleoceanography (2), Geophysical Research Letters (1)
