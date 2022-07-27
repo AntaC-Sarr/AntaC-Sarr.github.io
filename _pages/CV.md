@@ -1,7 +1,7 @@
 ---
 layout: smallfont_page
-title: Resume
-permalink: /resume/
+title: C.V.
+permalink: /cv/
 description: 
 nav: true
 display_categories: [work, fun]
