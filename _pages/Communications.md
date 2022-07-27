@@ -46,3 +46,5 @@ Asian Climate, Tectonics and Biodiversity, London (England) 2022.
 [2] __Sarr, A-C.__, Husson, L., Sepulchre, P. et al. Dynamic foundering of the Sunda shelf during the Quaternary revealed by coral reef geomorphology: impact on the external spheres of the Earth. EGU, Wien (Austria) 2018.
 
 [1] __Sarr, A.-C__, Maillet, M., Chassagnac, D., Laffay, M., Potel, S., Low-grade metamorphic study based on Àrkai Index and Kübler Index correlation in Markstein basin (Southern Vosges, NE France). 21ème Réunion des Sciences de la Terre, Pau (France) 2014.
+
+<p>&nbsp;</p>
