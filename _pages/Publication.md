@@ -21,7 +21,7 @@ __[17]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, G
 
 ###### `2022`
 
-__[16]__ Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, accepted for Paleoclimatology, Paleoceanography (2022) [[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511690.1){:target="_blank"}]. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022PA004415){:target="_blank"}]
+__[16]__ Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology, Paleoceanography, in press (2022) [[preprint](https://www.essoar.org/doi/abs/10.1002/essoar.10511690.1){:target="_blank"}]. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022PA004415){:target="_blank"}]
 
 __[15]__ __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) [[link](https://rdcu.be/cKXlb){:target="_blank"}]
  - Associated data : Sarr A-C. (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during the Miocene in response to change in regional topography. Zenodo. [[link](https://doi.org/10.5281/zenodo.5727042){:target="_blank"}]
