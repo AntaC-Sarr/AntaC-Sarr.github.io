@@ -11,6 +11,11 @@ _Updated list of selected communications at conferences_
 
 (*) sollicited, (**) upcoming  
 
+#### Keynote
+[1] (**) Indian Ocean Climate, (Paleo-)Circulation, and Model Integration. MagellanPlus Workshop _"Indian Ocean: Devling into the Past"_, Graz (Austria) 2022. 
+
+<p>&nbsp;</p>
+
 #### Oral Presentations
 
 [9] (*) __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Reconciling South Asian Monsoon Wind and Rainfall. EGU, Wien (Austria) 2022.
