@@ -17,9 +17,9 @@ __Around publications__ :
 
 __Work by colleagues that worth being read and followed__ : 
 
-[Colormap we should all be using](https://www.fabiocrameri.ch/colourmaps/){:target="_blank"}
+[Colormap we should all be using](https://www.fabiocrameri.ch/colourmaps/){:target="_blank"} by F. Crameri
 
-[Paleoclimate Simulations explorer](https://climatearchive.org/index.html){:target="_blank"}
+[Paleoclimate Simulations explorer](https://climatearchive.org/index.html){:target="_blank"} by S. Steinig
 
 [Did This Really Happen](https://didthisreallyhappen.net){:target="_blank"}
 
