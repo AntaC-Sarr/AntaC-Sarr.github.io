@@ -11,10 +11,10 @@ nav: true
 
 __[19]__ Tardif, D., __Sarr, A-C.__, Fluteau, F., Banfield, W., Bolton, C.T., Donnadieu, Y., Dupont-Nivet, G., Kaya, M., Ladant-J-B., Le Hir, G., Licht, A., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A. Asynchronous appearance of Asian monsoon features since the late Eocene and associated paleogeographic and paleoclimatic drivers, under review.
 
-__[18]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, in revision for Geophysical Research Letters.
+__[18]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, _accepted_ for Geophysical Research Letters.
 - Associated data : Sarr, A-C. & Laugié, M. (2022). Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation variability in response to idealized orbital configurations. Zenodo. [[link](https://doi.org/10.5281/zenodo.6641306){:target="_blank"}] 
 
-__[17]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, Paleoclimatology and Paleoceanography, _accepted_ [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}].
+__[17]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, _accepted_ for Paleoclimatology and Paleoceanography,  [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}].
 - Associated data : Martinot, C., Bolton, C., Sarr, A-C. et al. (2022). Climatic simulation from the equatorial Indian Ocean. PANGAEA. [[link](https://doi.pangaea.de/10.1594/PANGAEA.941973){:target="_blank"}] 
 
 
