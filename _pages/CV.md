@@ -34,8 +34,8 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 <p>&nbsp;</p>
 
 ### Fellowships & Grants
-
-- `2015 - 2018` PhD Scholarship from the French Ministry of Education and Research
+- `2023-2024`__LabEX OSUG [U. Grenoble Alpes] Grant for "Strategic Projects"__ [design and write the project ; PI - L.Husson for admin. reasons]
+- `2015 - 2018` __PhD Scholarship__ from the French Ministry of Education and Research
 - `2018` ECORD Scholarship to attend the Urbino Summer School in Paleoclimatology
 
 _> 7 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021 hours attribution - Project PI: P. Sepulchre, LSCE)_
@@ -58,6 +58,8 @@ _> 7 millions computing hours on Irene supercomputer from TGCC HPC facilities (G
 
 - Invited instructor at [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022), Italy
 
-### Services
-__Review for :__  Climate of the Past (2), Paleoclimatology & Paleoceanography (2), Geophysical Research Letters (1)
+### Review Activity
+- Climate of the Past 
+- Paleoclimatology & Paleoceanography 
+- Geophysical Research Letters
 
