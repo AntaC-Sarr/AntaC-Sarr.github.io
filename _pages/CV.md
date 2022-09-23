@@ -34,8 +34,8 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 <p>&nbsp;</p>
 
 ### Fellowships & Grants
-- `2023-2024`__LabEX OSUG [U. Grenoble Alpes] Grant for "Strategic Projects"__ [design and write the project ; PI - L.Husson for admin. reasons]
-- `2015 - 2018` __PhD Scholarship__ [French Ministry of Education and Research]
+- `2023-2024`__LabEX OSUG (U. Grenoble Alpes) Grant for "Strategic Projects"__ [design and write the project]
+- `2015 - 2018` __PhD Scholarship__ (French Ministry of Education and Research)
 
 - `2018` ECORD Scholarship to attend the Urbino Summer School in Paleoclimatology
 
