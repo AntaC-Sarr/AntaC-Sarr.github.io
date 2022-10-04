@@ -9,8 +9,6 @@ nav: true
 
 #### Under review / Preprints
 
-__[19]__ Tardif, D., __Sarr, A-C.__, Fluteau, F., Banfield, W., Bolton, C.T., Donnadieu, Y., Dupont-Nivet, G., Kaya, M., Ladant-J-B., Le Hir, G., Licht, A., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A. Asynchronous appearance of Asian monsoon features since the late Eocene and associated paleogeographic and paleoclimatic drivers, under review.
-
 __[18]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, _accepted_ for Paleoclimatology and Paleoceanography,  [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}].
 - Associated data : Martinot, C., Bolton, C., Sarr, A-C. et al. (2022). Climatic simulation from the equatorial Indian Ocean. PANGAEA. [[link](https://doi.pangaea.de/10.1594/PANGAEA.941973){:target="_blank"}] 
 
@@ -21,7 +19,7 @@ __[18]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, G
 
 ###### `2022`
 
-__[17]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, published online (2022).
+__[17]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, published online (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
 - Associated data : Sarr, A-C. & Laugié, M. (2022). Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation variability in response to idealized orbital configurations. Zenodo. [[link](https://doi.org/10.5281/zenodo.6641306){:target="_blank"}] 
 
 __[16]__ Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, 37(8):e2022PA004415 (2022) [[link](https://onlinelibrary.wiley.com/share/author/ZDH67EPIRABYYGNDTF7C?target=10.1029/2022PA004415){:target="_blank"}].
