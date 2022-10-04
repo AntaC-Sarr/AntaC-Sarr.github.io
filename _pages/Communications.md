@@ -12,7 +12,7 @@ _Updated list of selected communications at conferences_
 (*) sollicited, (**) upcoming  
 
 #### Keynote
-[1] (**) __Sarr, A-C.__, Indian Ocean Climate, (Paleo-)Circulation, and Model Integration. MagellanPlus Workshop _"Indian Ocean: Devling into the Past"_, Graz (Austria) 2022. 
+[1] (*) __Sarr, A-C.__, Indian Ocean Climate, (Paleo-)Circulation, and Model Integration. MagellanPlus Workshop _"Indian Ocean: Devling into the Past"_, Graz (Austria) 2022. 
 
 <p>&nbsp;</p>
 
