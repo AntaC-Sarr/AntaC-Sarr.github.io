@@ -19,7 +19,7 @@ __[18]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, G
 
 ###### `2022`
 
-__[17]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, published online (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
+__[17]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, 49(19):e2022GL099830 (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
 - Associated data : Sarr, A-C. & Laugié, M. (2022). Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation variability in response to idealized orbital configurations. Zenodo. [[link](https://doi.org/10.5281/zenodo.6641306){:target="_blank"}] 
 
 __[16]__ Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, 37(8):e2022PA004415 (2022) [[link](https://onlinelibrary.wiley.com/share/author/ZDH67EPIRABYYGNDTF7C?target=10.1029/2022PA004415){:target="_blank"}].
