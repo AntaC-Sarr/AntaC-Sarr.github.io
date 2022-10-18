@@ -9,15 +9,16 @@ nav: true
 
 #### Under review / Preprints
 
-__[18]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, _accepted_ for Paleoclimatology and Paleoceanography,  [[preprint](https://www.essoar.org/doi/10.1002/essoar.10509655.2){:target="_blank"}].
-- Associated data : Martinot, C., Bolton, C., Sarr, A-C. et al. (2022). Climatic simulation from the equatorial Indian Ocean. PANGAEA. [[link](https://doi.pangaea.de/10.1594/PANGAEA.941973){:target="_blank"}] 
-
+__[19]__ Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donnadieu, Y. 	The Late Miocene Biogenic Bloom : A globally distributed but not an ubiquitous event, _submitted_ to Paleoclimatology and Paleoceanography
 
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2022`
+
+__[18]__ Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, Paleoclimatology and Paleoceanography, e2021PA004407 (2022) [[link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004407){:target="_blank"}].
+- Associated data : Martinot, C., Bolton, C., Sarr, A-C. et al. (2022). Climatic simulation from the equatorial Indian Ocean. PANGAEA. [[link](https://doi.pangaea.de/10.1594/PANGAEA.941973){:target="_blank"}] 
 
 __[17]__ __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, 49(19):e2022GL099830 (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
 - Associated data : Sarr, A-C. & Laugié, M. (2022). Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation variability in response to idealized orbital configurations. Zenodo. [[link](https://doi.org/10.5281/zenodo.6641306){:target="_blank"}] 
