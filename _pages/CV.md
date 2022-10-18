@@ -10,6 +10,7 @@ horizontal: false
 
 
 ### Research Experiences
+`From Nov. 2022`. Postdoctoral researcher in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
 `Sep. 2020 - Oct. 2022`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
@@ -25,7 +26,7 @@ _Paleoclimate modeling. Ocean biogeochemistry modeling. Continental weathering m
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling._
 
-`Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -- Grenoble, France) and LSCE (Paris, France)
+`Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, France) and LSCE (Paris, France)
 
 - Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
 
@@ -34,10 +35,10 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 <p>&nbsp;</p>
 
 ### Fellowships & Grants
-- `2023-2024`__LabEX OSUG (U. Grenoble Alpes) Grant for "Strategic Projects"__ [design and write the project]
+- `2023-2024`LabEX OSUG (U. Grenoble Alpes) __Grant for "Strategic Projects"__ [design and write the project]
 - `2015 - 2018` __PhD Scholarship__ (French Ministry of Education and Research)
 
-- `2018` ECORD Scholarship to attend the Urbino Summer School in Paleoclimatology
+- `2018` __ECORD Scholarship__ to attend the Urbino Summer School in Paleoclimatology
 
 _> 7 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021 hours attribution - Project PI: P. Sepulchre, LSCE)_
 
