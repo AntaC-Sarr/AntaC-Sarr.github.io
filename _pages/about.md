@@ -8,8 +8,8 @@ profile:
   align: right
   image: Anta-Sarr-Image.jpg
   address: >
-    <p>Intitut de Ssciences de la Terre</p>
-    <p>OSUG-C (Maison des Géosciences)</p>
+    <p>ISTerre</p>
+    <p>OSUG-C</p>
     <p>381, rue de la Piscine</p>
     <p>38610 GIERES</p>
     <p>FRANCE</p>
