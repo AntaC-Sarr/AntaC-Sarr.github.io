@@ -8,7 +8,7 @@ middle_name:
 last_name: Sarr
 email: anta-clarisse.sarr@univ-grenoble-alpes.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Post-doctoral researcher @ CEREGE
+  Post-doctoral researcher @ ISTerre
 footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
  
