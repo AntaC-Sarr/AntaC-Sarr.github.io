@@ -40,7 +40,7 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 
 - `2018` __ECORD Scholarship__ to attend the Urbino Summer School in Paleoclimatology
 
-_> 7 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021 hours attribution - Project PI: P. Sepulchre, LSCE)_
+_> 9 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021, 2022 hours attribution - Project PI: P. Sepulchre, LSCE)_
 
 <p>&nbsp;</p>
 
