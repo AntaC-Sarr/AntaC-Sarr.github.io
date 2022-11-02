@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-New modeling work on Orbital effect on ventilation during Cretaceous published [in GRL](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022GL099830) 🌊👩🏾‍💻
+New modeling work on Orbital effect on ocean ventilation during Cretaceous published [in GRL](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2022GL099830) 🌊👩🏾‍💻
