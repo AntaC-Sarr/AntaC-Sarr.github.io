@@ -8,9 +8,10 @@ profile:
   align: right
   image: Anta-Sarr-Image.jpg
   address: >
-    <p>CEREGE</p>
-    <p> Technopole Arbois</p>
-    <p>13545 Aix en Provence </p>
+    <p>Intitut de Ssciences de la Terre</p>
+    <p>OSUG-C (Maison des Géosciences)</p>
+    <p>381, rue de la Piscine</p>
+    <p>38610 GIERES</p>
     <p>FRANCE</p>
 
 news: true  # includes a list of news items
