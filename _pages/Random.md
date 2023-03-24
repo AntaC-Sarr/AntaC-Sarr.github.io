@@ -9,9 +9,9 @@ nav: true
 
 __Around publications__ :
 
-[CycloPod # 11](https://rss.com/podcasts/cyclopod/521228/){:target="_blank"} with David de Vleeschouwer, where we discuss Miocene climate.
+🎧 [CycloPod # 11](https://rss.com/podcasts/cyclopod/521228/){:target="_blank"} with David de Vleeschouwer, where we discuss Miocene climate.
 
-[CycloPod # 7](https://rss.com/podcasts/cyclopod/370372/){:target="_blank"}, where Clara Bolton discuss astronomical forcing and coccolith evolution, featuring Beaufort et al. 2022 work.
+🎧 [CycloPod # 7](https://rss.com/podcasts/cyclopod/370372/){:target="_blank"}, where Clara Bolton discuss astronomical forcing and coccolith evolution, featuring Beaufort et al. 2022 work.
 
 <p>&nbsp;</p>
 
