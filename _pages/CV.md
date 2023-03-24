@@ -8,6 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
+📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
 ### Research Experiences
 `From Nov. 2022`. Postdoctoral researcher in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
