@@ -9,7 +9,7 @@ nav: true
 
 #### Under review / Preprints
 
-🌦 Tardif, D., __Sarr, A-C.__, Fluteau, F., Licht, A., Kaya, M., Ladant, J-B, Meijer, N., Donnadieu, Y., Dupont-Nivet, G., Bolton, C. T., Le Hir, G., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A., Banfield, W. Asynchronous establishment of Asian monsoonal features since the late Eocene: associated paleogeographic and climatic drivers, _under review_.
+🌦 Tardif, D., __Sarr, A-C.__, Fluteau, F., Licht, A., Kaya, M., Ladant, J-B, Meijer, N., Donnadieu, Y., Dupont-Nivet, G., Bolton, C. T., Le Hir, G., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A., Banfield, W. Asynchronous establishment of Asian monsoonal features since the late Eocene: associated paleogeographic and climatic drivers, _minor revision_ for Earth Science Review.
 
 <p>&nbsp;</p>
 
@@ -17,7 +17,7 @@ nav: true
 
 ###### `2023`
 
-__[19]__ 🌊 Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donnadieu, Y. 		A global reassessment of the spatial and temporal expression of the Late Miocene Biogenic Bloom, Paleoclimatology and Paleoceanography,  _in press_ (2023).
+__[19]__ 🌊 Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donnadieu, Y. 		A global reassessment of the spatial and temporal expression of the Late Miocene Biogenic Bloom, Paleoclimatology and Paleoceanography, 38(3): e2022PA004564 (2023(2023).[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022PA004564){:target="_blank"}].
 
 ###### `2022`
 
