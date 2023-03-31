@@ -30,7 +30,7 @@ Ongoing collaborations now aim at investigating the impact of those mantle-drive
     Left - Progading Mangrova. Belitung, Sundaland. Middle - Granites. Belitung, Sundaland. Right - Emerged reef & Notch. South Sulawesi.
 </div>
 
-
+_Collaborators_ : L. Husson, P. Sepulchre, F. Boucher
   
 #### Associated publications 
 - Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus, B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and Sarr A-C. Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022).
