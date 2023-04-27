@@ -11,16 +11,16 @@ horizontal: false
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
 ### Research Experiences
-`From Nov. 2022`. Postdoctoral researcher in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
+`From Nov. 2022`. Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
-`Sep. 2020 - Oct. 2022`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+`Sep. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
 - Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
 (_project PI : Dr. Yannick Donnadieu)_
 
 _Paleoclimate modeling. Ocean biogeochemistry modeling. Continental weathering modeling_
 
-`Sep. 2019 - Sept. 2020`. Postdoctoral researcher in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+`Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
 - Project [1 year] :  Impact of paleogeography on the climate evolution during the Miocene.
 (_project PI : Dr. Yannick Donnadieu)_
@@ -36,6 +36,7 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 <p>&nbsp;</p>
 
 ### Fellowships & Grants
+-  `2023`__BQR research project__ (Internal call ISTerre lab.) [2.8k€ - PI]
 - `2023-2024`LabEX OSUG (U. Grenoble Alpes) __Grant for "Strategic Projects"__ [103 k€ - design and write the project]
 - `2015 - 2018` __PhD Scholarship__ (90 k€ - French Ministry of Education and Research)
 
