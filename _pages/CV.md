@@ -11,7 +11,7 @@ horizontal: false
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
 ### Research Experiences
-`From Nov. 2022`. Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
+`Nov. 2022 - Oct. 2023`. Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
 `Sep. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
