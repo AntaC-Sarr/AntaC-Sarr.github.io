@@ -8,14 +8,14 @@ nav: true
 <p>&nbsp;</p>
 
 #### Under review / Preprints
-
-🌦 Tardif, D., __Sarr, A-C.__, Fluteau, F., Licht, A., Kaya, M., Ladant, J-B, Meijer, N., Donnadieu, Y., Dupont-Nivet, G., Bolton, C. T., Le Hir, G., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A., Banfield, W. The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, _minor revision_ for Earth Science Review.
+__[20]__ 🌦 * Tardif, D., * __Sarr, A-C.__, Fluteau, F., Licht, A., Kaya, M., Ladant, J-B, Meijer, N., Donnadieu, Y., Dupont-Nivet, G., Bolton, C. T., Le Hir, G., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A., Banfield, W. _(* corresponding authors)_ (accepted). The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth Science Review.
 
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2023`
+
 
 __[19]__ 🌊 Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donnadieu, Y. 		A global reassessment of the spatial and temporal expression of the Late Miocene Biogenic Bloom, Paleoclimatology and Paleoceanography, 38(3): e2022PA004564 (2023(2023).[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022PA004564){:target="_blank"}].
 
@@ -24,10 +24,10 @@ __[19]__ 🌊 Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donna
 __[18]__ 🌊 Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia, M, Gray, E. & Tachikawa, K. Drivers of late Miocene tropical sea surface cooling: a new perspective from the equatorial Indian Ocean, Paleoclimatology and Paleoceanography, e2021PA004407 (2022) [[link](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021PA004407){:target="_blank"}].
 - Associated data : Martinot, C., Bolton, C., Sarr, A-C. et al. (2022). Climatic simulation from the equatorial Indian Ocean. PANGAEA. [[link](https://doi.pangaea.de/10.1594/PANGAEA.941973){:target="_blank"}] 
 
-__[17]__ 🌦 __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, 49(19):e2022GL099830 (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
+__[17]__ 🌊 __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, 49(19):e2022GL099830 (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
 - Associated data : Sarr, A-C. & Laugié, M. (2022). Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation variability in response to idealized orbital configurations. Zenodo. [[link](https://doi.org/10.5281/zenodo.6641306){:target="_blank"}] 
 
-__[16]__   🌊Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, 37(8):e2022PA004415 (2022) [[link](https://onlinelibrary.wiley.com/share/author/ZDH67EPIRABYYGNDTF7C?target=10.1029/2022PA004415){:target="_blank"}].
+__[16]__ 🌊Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, 37(8):e2022PA004415 (2022) [[link](https://onlinelibrary.wiley.com/share/author/ZDH67EPIRABYYGNDTF7C?target=10.1029/2022PA004415){:target="_blank"}].
  - Associated data : Pillot Q. (2022). Evolution of ocean circulation in the North Atlantic Ocean during the Miocene: impact of the Greenland Ice Sheet and the Eastern Tethys Seaway. Zenodo. [[link](https://doi.org/10.5281/zenodo.6982823){:target="_blank"}]
 
 __[15]__ 🌦 __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) [[link](https://rdcu.be/cKXlb){:target="_blank"}]
