@@ -36,13 +36,13 @@ _Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling.
 <p>&nbsp;</p>
 
 ### Fellowships & Grants
--  `2023`__BQR research project__ (Internal call ISTerre lab.) [2.8k€ - PI]
-- `2023-2024`LabEX OSUG (U. Grenoble Alpes) __Grant for "Strategic Projects"__ [103 k€ - design and write the project]
+-  `2023`__BQR research project__ (Internal call ISTerre lab.) [3k€ - PI]
+- `2022-2024`LabEX OSUG (U. Grenoble Alpes) __Grant for "Strategic Projects"__ [103 k€ - design and write the project]
 - `2015 - 2018` __PhD Scholarship__ (90 k€ - French Ministry of Education and Research)
 
 - `2018` __ECORD Scholarship__ to attend the Urbino Summer School in Paleoclimatology
 
-_> 9 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021, 2022 hours attribution - Project PI: P. Sepulchre, LSCE)_
+_> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA) (2017, 2019, 2020, 2021, 2022 hours attribution - Project PI: P. Sepulchre, LSCE)_
 
 <p>&nbsp;</p>
 
@@ -56,14 +56,17 @@ _> 9 millions computing hours on Irene supercomputer from TGCC HPC facilities (G
 
 ### Supervision
 
-- __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months) 
+- __Cédric Dobin__, MsC 1st year (University Grenoble Alpes) - Evolution of continental environment in response to Miocene change in paleogeography. Principal Advisor (Duration : 2 months). 2023
+- __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months). 2020 
 
 ### Teaching
 
-- Invited instructor at [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022), Italy
+- Invited instructor at [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022, 2023), Italy
 
 ### Review Activity
-- Climate of the Past 
-- Paleoclimatology & Paleoceanography 
+- Climate of the Past
 - Geophysical Research Letters
+- Nature
+- Paleoclimatology & Paleoceanography 
+
 
