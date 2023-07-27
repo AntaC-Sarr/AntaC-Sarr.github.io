@@ -22,5 +22,6 @@ Over the past million years, evolution of paleogeography has been responsible fo
 </div>
 
 #### Associated publications 
-- Pillot, Q., Donnadieu, Y., Sarr, A-C., Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, published online (2022)
-- Sarr, A.-C., Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) 
+-*Tardif, D., *Sarr, A-C., Fluteau, F., _et al._The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023). 
+- Pillot, Q., Donnadieu, Y., Sarr, A-C., Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37:e2022PA004415 (2022).
+- Sarr, A.-C., Donnadieu, Y., Bolton, C. T., _et al._ Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) 
