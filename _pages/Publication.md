@@ -9,6 +9,7 @@ nav: true
 
 #### Under review / Preprints
 
+__[21]__ 🌊 * Beaufort, L., * __Sarr, A-C.__, _(* corresponding authors)_. Eccentricity forcing on Tropical Ocean Seasonality, _in discussion_ at Climate of the Past.[[link](https://cp.copernicus.org/preprints/cp-2023-80/){:target="_blank"}].
 <p>&nbsp;</p>
 
 #### Published
