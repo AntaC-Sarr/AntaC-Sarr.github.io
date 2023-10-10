@@ -70,6 +70,8 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 - Invited instructor at [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022, 2023), Italy
 
+- Master Degree in Earth System Sciences (University Grenoble Alpes, France): _Solid Earth and Climate System_ (2023)
+
 ### Review Activity
 - Climate of the Past
 - Geophysical Research Letters
