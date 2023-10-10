@@ -14,7 +14,7 @@ horizontal: false
 
 `From Nov. 2023`. Postdoctoral Scholar in Paleoclimate Modeling – at Department of Earth Sciences (University of Oregon - Eugene, USA)
 
-`Nov. 2022 - Oct. 2023`. Research Fellow Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
+`Nov. 2022 - Oct. 2023`. Research Fellow in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
 `Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
