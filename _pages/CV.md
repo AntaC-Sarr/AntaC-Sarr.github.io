@@ -11,7 +11,10 @@ horizontal: false
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
 ### Research Experiences
-`Nov. 2022 - Oct. 2023`. Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
+
+`From Nov. 2023`. Postdoctoral Scholar in Paleoclimate Modeling – at Department of Earth Sciences (University of Oregon - Eugene, USA)
+
+`Nov. 2022 - Oct. 2023`. Research Fellow Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
 `Sep. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
@@ -54,10 +57,14 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 <p>&nbsp;</p>
 
-### Supervision
+### Mentoring
 
+##### Master students
 - __Cédric Dobin__, MsC 1st year (University Grenoble Alpes) - Evolution of continental environment in response to Miocene change in paleogeography. Principal Advisor (Duration : 2 months). 2023
-- __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months). 2020 
+- __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months). 2020
+
+##### PhD student (_significant mentoring involvment_)
+- __Quentin Pillot__ (University Aix-Marseille, 2020-2024)
 
 ### Teaching
 
