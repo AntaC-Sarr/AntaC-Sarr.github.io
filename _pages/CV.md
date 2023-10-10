@@ -16,7 +16,7 @@ horizontal: false
 
 `Nov. 2022 - Oct. 2023`. Research Fellow Postdoctoral Research Associate in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
-`Sep. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
+`Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
 - Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
 (_project PI : Dr. Yannick Donnadieu)_
