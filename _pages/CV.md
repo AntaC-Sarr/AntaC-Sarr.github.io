@@ -13,28 +13,23 @@ horizontal: false
 ### Research Experiences
 
 `From Nov. 2023`. Postdoctoral Scholar in Paleoclimate Modeling – at Department of Earth Sciences (University of Oregon - Eugene, USA)
+_[with C. Poulsen]_
 
 `Nov. 2022 - Oct. 2023`. Research Fellow in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
 `Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
 - Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
-(_project PI : Dr. Yannick Donnadieu)_
-
-_Paleoclimate modeling. Ocean biogeochemistry modeling. Continental weathering modeling_
+  _[with Y.Donnadieu]_
 
 `Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France).
 
-- Project [1 year] :  Impact of paleogeography on the climate evolution during the Miocene.
-(_project PI : Dr. Yannick Donnadieu)_
-
-_Paleoclimate modeling. Ocean biogeochemistry modeling._
+- Project [1 year] :  Impact of paleogeography on the climate and ocean evolution during the Miocene.
+_[with Y.Donnadieu]_
 
 `Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, France) and LSCE (Paris, France)
 
-- Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. Supervisors : Dr. Laurent Husson (ISTerre) & Dr. Pierre Sepulchre (LSCE)
-
-_Coral reef development modeling. Paleoclimate modeling. 3D subduction modeling. Geomorphology._
+- Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. _[with L.Husson & P. Sepulchre]_
 
 <p>&nbsp;</p>
 
@@ -68,9 +63,13 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 ### Teaching
 
-- Invited instructor at [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022, 2023), Italy
+- [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022, 2023), Italy  - Invited instructor
+  - _Climate of the Miocene_
+  - _Climate modeling_
 
-- Master Degree in Earth System Sciences (University Grenoble Alpes, France): _Solid Earth and Climate System_ (2023)
+- University Grenoble Alpes, France (MsC Degree in Earth System Sciences) (2023)
+  - _Solid Earth and Atmosphere_
+  - Solide Earth and Oceans
 
 ### Review Activity
 - Climate of the Past
