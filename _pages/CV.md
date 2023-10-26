@@ -20,16 +20,19 @@ _[with C. Poulsen]_
 `Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France) _[with Y.Donnadieu]_
 
 - Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
+  
   _Paleoclimate modeling. Ocean biogeochemistry modeling_
 
 `Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, France) _[with Y.Donnadieu]_
 
 - Project [1 year] :  Impact of paleogeography on the climate and ocean evolution during the Miocene.
+  
   _Paleoclimate modeling. Ocean biogeochemistry modeling_
 
 `Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, France) and LSCE (Paris, France) _[with L.Husson & P. Sepulchre]_
 
-- Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation. 
+- Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation.
+  
     _Paleoclimate modeling. Geomorphology. Coral reef modeling. Subduction modeling_
 
 <p>&nbsp;</p>
