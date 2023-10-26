@@ -67,7 +67,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 ### Teaching
 
-- [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP 2022, 2023), Italy  - Invited instructor
+- [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP), Italy (2022, 2023) - Invited instructor
   - _Climate of the Miocene_
   - _Climate modeling_
 
