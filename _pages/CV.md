@@ -69,7 +69,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 - University Grenoble Alpes, France (MsC Degree in Earth System Sciences) (2023)
   - _Solid Earth and Atmosphere_
-  - Solide Earth and Oceans
+  - _Solid Earth and Oceans_
 
 ### Review Activity
 - Climate of the Past
