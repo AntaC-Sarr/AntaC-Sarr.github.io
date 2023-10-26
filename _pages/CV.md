@@ -54,8 +54,6 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 - `2015` MsC Earth Sciences, Grenoble Alpes University, France
 - `2015` MsC Geology and Geophysics, UniLasalle, France
 
-<p>&nbsp;</p>
-
 ### Mentoring
 
 ###### Master students
