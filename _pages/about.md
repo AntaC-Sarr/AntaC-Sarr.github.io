@@ -8,11 +8,11 @@ profile:
   align: right
   image: Anta-Sarr-Image.jpg
   address: >
-    <p>ISTerre</p>
-    <p>OSUG-C</p>
-    <p>381, rue de la Piscine</p>
-    <p>38610 GIERES</p>
-    <p>FRANCE</p>
+    <p>Department of Earth Sciences</p>
+    <p>100 Cascade Hall </p>
+    <p>1272 University of Oregon</p>
+    <p>Eugene, OR | 97 403</p>
+    <p>UNITED STATES</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
