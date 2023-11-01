@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently am a Postdoctoral fellow at ISTerre - Grenoble Alpes University (France). Over the past few years I have studied past climate and environment response to Earth surface deformation and changes in Earth's orbit configuration. My main tool to do so is paleoclimate modeling but I am also familiar with various numerical and geomorphology tools useful to study the Earth surface ups and downs and mechanisms behind them. I try my best to make links among _things_ to better understand how the evolution of the geosphere connects with that of the climate system and the biosphere. Currently working on Miocene evolution of seaway regions but my interests are varying with seasons !     
+I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA). Over the past few years I have studied past climate and environment response to Earth surface deformation and changes in Earth's orbit configuration. My main tool to do so is paleoclimate modeling but I am also familiar with various numerical and geomorphology tools useful to study the Earth surface ups and downs and mechanisms behind them. I try my best to make links among _things_ to better understand how the evolution of the geosphere connects with that of the climate system and the biosphere. My scientific interests are varying with seasons !     
 
 __<u>Research interests :</u>__
 
