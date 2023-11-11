@@ -13,7 +13,7 @@ horizontal: false
 ### Research Experiences
 
 `From Nov. 2023`. Postdoctoral Scholar in Paleoclimate Modeling – at Department of Earth Sciences (University of Oregon - Eugene, USA)
-_[with C. Poulsen]_
+_[with C.J. Poulsen]_
 
 `Nov. 2022 - Oct. 2023`. Research Fellow in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, France)
 
