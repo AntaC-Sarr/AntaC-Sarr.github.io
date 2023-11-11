@@ -9,7 +9,6 @@ profile:
   image: Anta-Sarr-Image.jpg
   address: >
     <p>Department of Earth Sciences</p>
-    <p>Cascade Hall, 305D </p>
     <p>1272 University of Oregon</p>
     <p>Eugene, OR | 97 403</p>
     <p>UNITED STATES</p>
