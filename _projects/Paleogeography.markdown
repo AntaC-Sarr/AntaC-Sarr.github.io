@@ -3,7 +3,7 @@ layout: page
 title: Paleogeography & climate
 description: Understand how evolving geography drove past climate changes 
 img: /assets/img/Nepal.jpg
-importance: 2
+importance: 1
 category: work
 ---
 
@@ -24,6 +24,6 @@ _Collaborators : D. Tardif, F. Fluteau, A. Licht, C. Bolton, JB. Ladant_
 </div>
 
 #### Associated publications 
-- Tardif, D., Sarr, A-C., Fluteau, F., _et al._The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023). 
+- Tardif, D., Sarr, A-C., Fluteau, F., et al.The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023). 
 - Pillot, Q., Donnadieu, Y., Sarr, A-C., Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37:e2022PA004415 (2022).
-- Sarr, A.-C., Donnadieu, Y., Bolton, C. T., _et al._ Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) 
+- Sarr, A.-C., Donnadieu, Y., Bolton, C. T., et al. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) 
