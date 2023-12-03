@@ -3,7 +3,7 @@ layout: page
 title: 4D - South-East Asia
 description: Mantle-climate-biosphere connections in SE Asia
 img: /assets/img/Karimun.jpg
-importance: 1
+importance: 3
 category: work
 ---
 
