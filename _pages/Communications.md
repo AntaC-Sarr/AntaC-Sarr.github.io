@@ -16,13 +16,12 @@ _Updated list of selected communications at conferences_
 
 <p>&nbsp;</p>
 
-#### Oral Presentations
+#### Oral Presentations (1st author)
+[9] __Sarr, A-C.__, Poulsen, C.J., Do, E.L. An isotope-enabled model perspective on Cenomanian-Turonian Sea Surface Temperatures. CESM-Paleoclimate Workshop, NCAR, Boulder (USA) 2024.
 
-[9] (*) __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Reconciling South Asian Monsoon Wind and Rainfall. EGU, Wien (Austria) 2022.
+[8] (*) __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Reconciling South Asian Monsoon Wind and Rainfall. EGU, Wien (Austria) 2022.
 
-[8] __Sarr, A-C.__,  Laugié, M., Donnadieu, Y. et al. Orbital-scale deoxygenation trends driven by ventilation in Cretaceous ocean. EGU, Wien (Austria) 2022.
-
-[7] Tardif, D., __Sarr, A-C.__, Fluteau, F., et al. Contrôle paléogéographique des moussons asiatiques au Cénozoïque : le Tibet et (surtout) tous les autres. RST, Lyon (France) 2021.
+[7] __Sarr, A-C.__,  Laugié, M., Donnadieu, Y. et al. Orbital-scale deoxygenation trends driven by ventilation in Cretaceous ocean. EGU, Wien (Austria) 2022.
 
 [6] __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Développement asynchrone des pluies et des vents de mousson au Miocene. RST, Lyon (France) 2021.
 
