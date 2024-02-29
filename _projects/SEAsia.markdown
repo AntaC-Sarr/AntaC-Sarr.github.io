@@ -31,11 +31,11 @@ Temporal variations of land-sea mask distribution, triggered by vertical deforma
 </div>
   
 #### Relevant publications 
-###### Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus, B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and Sarr A-C. Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022).
-###### Salles, T., Mallard, C., Husson, L., Zahirovic, S., Sarr, A-C., Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia, Communications earth & environment 2 (2021).
-###### Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography. Journal of Biogeography,47(4):843-853 (2020)
-###### Sarr, A-C., Sepulchre, P., Husson, L. Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124 (2019).
-###### Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 (2019).
-###### Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. Subsiding Sundaland. Geology, 47:119-122 (2019).
-###### Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., Sarr, A-C., Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G., On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57 (2018).
+###### -Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus, B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and Sarr A-C. Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022).
+###### -Salles, T., Mallard, C., Husson, L., Zahirovic, S., Sarr, A-C., Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia, Communications earth & environment 2 (2021).
+###### -Husson, L., Boucher F., Sarr, A-C., Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography. Journal of Biogeography,47(4):843-853 (2020)
+###### -Sarr, A-C., Sepulchre, P., Husson, L. Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124 (2019).
+###### -Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 (2019).
+###### -Sarr, A-C., Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. Subsiding Sundaland. Geology, 47:119-122 (2019).
+###### -Pedoja, K., Husson, L., Bezos, A., Pastier, A-M., Imran, A-M., Arias, C., Sarr, A-C., Elliot, M., Pons-Branchu, E., Regard, E., Nexer, M., Regard, V., Hafidz, A., Robert, X., Benoit, L., Delcaillau, B., Authemayou, C., Dumoulin, C., Choblet, G., On the long-lasting sequences of coral reef terraces from SE Sulawesi (Indonesia): distribution, formation, and global significance. Quaternary Science Reviews, 188:37-57 (2018).
 
