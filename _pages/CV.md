@@ -38,6 +38,7 @@ _[with C.J. Poulsen]_
 <p>&nbsp;</p>
 
 ### Fellowships & Grants
+-  `2024`__BQR research project__ (Internal call ISTerre lab.) [4k€ - co-PI]
 -  `2023`__BQR research project__ (Internal call ISTerre lab.) [3k€ - PI]
 - `2022-2024`LabEX OSUG (U. Grenoble Alpes) __Grant for "Strategic Projects"__ [103 k€ - design and write the project]
 - `2015 - 2018` __PhD Scholarship__ (90 k€ - French Ministry of Education and Research)
