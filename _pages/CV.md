@@ -58,7 +58,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 ### Mentoring
 
 ###### Master students
-- __Julie Le Merrer__ MsC 2nd year (University Grenoble Alpes) - Co-advisor with S. Lavergne, L. Husson (Duration: 5 months). 2024
+- __Julie Le Merrer__, MsC 2nd year (University Grenoble Alpes) - Co-advisor with S. Lavergne & L. Husson (Duration: 5 months). 2024
 - __Cédric Dobin__, MsC 1st year (University Grenoble Alpes) - Evolution of continental environment in response to Miocene change in paleogeography. Principal Advisor (Duration : 2 months). 2023
 - __Quentin Pillot__, MsC 2nd year (University of Lyon) – Evolution of North Atlantic oceanic circulation during the Miocene. Co-advisor. Principal Advisor : Yannick Donnadieu (Duration : 5 months). 2020
 
