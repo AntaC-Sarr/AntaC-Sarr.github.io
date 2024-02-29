@@ -24,4 +24,4 @@ Over the past million years, evolution of paleogeography has been responsible fo
 #### Relevant publications 
 ###### Tardif, D., Sarr, A-C., Fluteau, F., et al.The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023). 
 ###### Pillot, Q., Donnadieu, Y., Sarr, A-C., Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37:e2022PA004415 (2022).
-###### Sarr, A.-C., Donnadieu, Y., Bolton, C. T., et al. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) 
+###### Sarr, A.-C., Donnadieu, Y., Bolton, C. T., et al. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022). 
