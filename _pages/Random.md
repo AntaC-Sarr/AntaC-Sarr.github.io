@@ -23,4 +23,10 @@ __Work by colleagues that worth being read and followed__ :
 
 [Did This Really Happen](https://didthisreallyhappen.net){:target="_blank"}
 
+<p>&nbsp;</p>
+
+__To think about ...__
+
+🎧 [Black Women Don't Owe You Likeability ...](https://open.spotify.com/episode/0bG6JSTnZJljLp4lLi4B6S?si=e824173666544ecf){:target="_blank"} 
+
 
