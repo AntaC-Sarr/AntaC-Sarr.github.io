@@ -23,9 +23,9 @@ I currently am a Postdoctoral Scholar at Department of Earth Sciences, Universit
 __<u>Research interests :</u>__
 
 - Neogene evolution of the Earth System 
-- Paleoclimate, paleoceanography, climate modeling 
-- Paleogeography & mantle dynamics above subduction zones
-- Tropical climate (& North Pacific !)
+- (Paleo-)climate and ocean modeling
+- Eccentricity effect on the ocean
+- Water isotopes in paleo
 
 
 
