@@ -19,7 +19,12 @@ Over the past million years, evolution of paleogeography has been responsible fo
 </div>
 <div class="caption">
     Left - early Miocene geography (from Poblete et al. 2021). Right - late Miocene geography (from Sarr et al., 2022)
-</div>
+</div>  
+
+
+__Projects:__  
+_- Topography and Asian Monsoon_  
+_- Seaways and Miocene ocean circulation_  
 
 #### Relevant publications 
 -Tardif, D., __Sarr, A-C.__, Fluteau, F., et al.The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023).
