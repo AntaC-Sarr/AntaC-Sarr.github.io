@@ -21,13 +21,14 @@ Over the past million years, evolution of paleogeography has been responsible fo
     Left - early Miocene geography (from Poblete et al. 2021). Right - late Miocene geography (from Sarr et al., 2022)
 </div>  
 
+<p>&nbsp;</p>
 
 __Projects:__  
 _- Topography and Asian Monsoon_  
 _- Seaways and Miocene ocean circulation_  
 
 #### Relevant publications 
--Tardif, D., __Sarr, A-C.__, Fluteau, F., et al.The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023).
+-Tardif, D., __Sarr, A-C.__, Fluteau, F., et al. The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023).
 
 -Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoceanography and Paleoclimatology, 37:e2022PA004415 (2022).
 
