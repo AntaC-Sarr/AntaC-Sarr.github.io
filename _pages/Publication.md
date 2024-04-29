@@ -9,13 +9,13 @@ nav: true
 
 #### Under review / Preprints
 __[23]__ * Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx,B.,  _(* mentored PhD student)_. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
-
-__[22]__ 🌊 * Beaufort, L., * __Sarr, A-C.__, _(* corresponding authors)_. Eccentricity forcing on Tropical Ocean Seasonality, _in revision_ for Climate of the Past.[[link](https://cp.copernicus.org/preprints/cp-2023-80/){:target="_blank"}].
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2024`
+__[22]__ 🌊 * Beaufort, L. & __Sarr, A-C.__. Eccentricity forcing on Tropical Ocean Seasonality (2024), in press at Climate of the Past.[[link](https://cp.copernicus.org/preprints/cp-2023-80/){:target="_blank"}].
+
 __[21]__ 🌦 Acosta, R.P., Burls, N.J., Pound, M.J., Bradshaw, C.D., De Boer, A.M., Herold, N., Huber, M., Liu, X., Donnadieu, Y., Farnsworth, A., Frigola, A., Lunt, D.J., von der Heydt, A.S., Hutchinson, D.K., Knorr, G.,  Lohmann, G., Marzocchi, A., Prange, M., __Sarr A.-C.__, Li, X. and Zhang, Z., A Model-Data Comparison of the Hydrological Response to Miocene Warmth: Leveraging the MioMIP1 Opportunistic Multi-Model Ensemble (2024). Paleoceanography and Paleoclimatology 39(1):e2020PA004054. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023PA004726){:target="_blank"}].
 
 ###### `2023`
