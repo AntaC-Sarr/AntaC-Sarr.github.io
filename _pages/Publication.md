@@ -7,14 +7,16 @@ nav: true
 ---
 <p>&nbsp;</p>
 
+_‡ PhD students_
+
 #### Under review / Preprints
-__[23]__ * Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx,B.,  _(* mentored PhD student)_. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
+__[23]__ ‡Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx,B.. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2024`
-__[22]__ 🌊 * Beaufort, L. & __Sarr, A-C.__. Eccentricity forcing on Tropical Ocean Seasonality (2024), in press at Climate of the Past.[[link](https://cp.copernicus.org/preprints/cp-2023-80/){:target="_blank"}].
+__[22]__ 🌊 Beaufort, L. & __Sarr, A-C.__. Eccentricity forcing on Tropical Ocean Seasonality (2024), in press at Climate of the Past.[[link](https://cp.copernicus.org/preprints/cp-2023-80/){:target="_blank"}].
 
 __[21]__ 🌦 Acosta, R.P., Burls, N.J., Pound, M.J., Bradshaw, C.D., De Boer, A.M., Herold, N., Huber, M., Liu, X., Donnadieu, Y., Farnsworth, A., Frigola, A., Lunt, D.J., von der Heydt, A.S., Hutchinson, D.K., Knorr, G.,  Lohmann, G., Marzocchi, A., Prange, M., __Sarr A.-C.__, Li, X. and Zhang, Z., A Model-Data Comparison of the Hydrological Response to Miocene Warmth: Leveraging the MioMIP1 Opportunistic Multi-Model Ensemble (2024). Paleoceanography and Paleoclimatology 39(1):e2020PA004054. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023PA004726){:target="_blank"}].
 
@@ -22,7 +24,7 @@ __[21]__ 🌦 Acosta, R.P., Burls, N.J., Pound, M.J., Bradshaw, C.D., De Boer, A
 
 __[20]__ 🌦 * Tardif, D., * __Sarr, A-C.__, Fluteau, F., Licht, A., Kaya, M., Ladant, J-B, Meijer, N., Donnadieu, Y., Dupont-Nivet, G., Bolton, C. T., Le Hir, G., Pillot, Q., Poblete, F., Sepulchre, P., Toumoulin, A., Banfield, W. _(* corresponding authors)_. The role of paleogeography in Asian monsoon evolution: a review and new insights from climate modelling, Earth-Science Reviews, 23:104464 (2023).[[link](https://www.researchgate.net/publication/371493882_The_role_of_paleogeography_in_Asian_monsoon_evolution_a_review_and_new_insights_from_climate_modelling){:target="_blank"}].
 
-__[19]__ 🌊 Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donnadieu, Y. 		A global reassessment of the spatial and temporal expression of the Late Miocene Biogenic Bloom, Paleoclimatology and Paleoceanography, 38(3): e2022PA004564 (2023).[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022PA004564){:target="_blank"}].
+__[19]__ 🌊 ‡Pillot, Q., Sucheras-Marx,B., __Sarr, A-C.__, Bolton, C. T., Donnadieu, Y. 		A global reassessment of the spatial and temporal expression of the Late Miocene Biogenic Bloom, Paleoclimatology and Paleoceanography, 38(3): e2022PA004564 (2023).[[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022PA004564){:target="_blank"}].
 
 ###### `2022`
 
@@ -32,7 +34,7 @@ __[18]__ 🌊 Martinot, C., Bolton, C.T., __Sarr, A-C.__, Donnadieu, Y., Garcia,
 __[17]__ 🌊 __Sarr, A-C.__, Donnadieu, Y., Laugié, M., Ladant, J.-B., Suchéras-Marx, B., Raisson, F. Ventilation changes drive orbital-scale deoxygenation trends in the late Cretaceous ocean, Geophysical Research Letters, 49(19):e2022GL099830 (2022).[[link](https://onlinelibrary.wiley.com/share/author/FURNK3R2YBZ4UDJNEUB6?target=10.1029/2022GL099830){:target="_blank"}].
 - Associated data : Sarr, A-C. & Laugié, M. (2022). Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation variability in response to idealized orbital configurations. Zenodo. [[link](https://doi.org/10.5281/zenodo.6641306){:target="_blank"}] 
 
-__[16]__ 🌊Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, 37(8):e2022PA004415 (2022) [[link](https://onlinelibrary.wiley.com/share/author/ZDH67EPIRABYYGNDTF7C?target=10.1029/2022PA004415){:target="_blank"}].
+__[16]__ 🌊 ‡ Pillot, Q., Donnadieu, Y., __Sarr, A-C.__, Ladant, J-B., Suchéras-Marx, B. Evolution of ocean circulation in the North Atlantic Ocean during the Miocene : impact of the Greenland Ice-Sheet and the Eastern Tethys Seaway, Paleoclimatology and Paleoceanography, 37(8):e2022PA004415 (2022) [[link](https://onlinelibrary.wiley.com/share/author/ZDH67EPIRABYYGNDTF7C?target=10.1029/2022PA004415){:target="_blank"}].
  - Associated data : Pillot Q. (2022). Evolution of ocean circulation in the North Atlantic Ocean during the Miocene: impact of the Greenland Ice Sheet and the Eastern Tethys Seaway. Zenodo. [[link](https://doi.org/10.5281/zenodo.6982823){:target="_blank"}]
 
 __[15]__ 🌦 __Sarr, A.-C.__, Donnadieu, Y., Bolton, C. T., Ladant, J.-B., Licht, A., Fluteau, F., Laugié, M., Tardif, D., and Dupont-Nivet, G. Neogene South Asian Monsoon Rainfall and Wind Histories diverged due to topography effects, Nature Geoscience, 15:314-319 (2022) [[link](https://rdcu.be/cKXlb){:target="_blank"}]
