@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Post-Doctoral Researcher
+description: Researcher 
 
 profile:
   align: right
@@ -18,8 +18,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA). Over the past few years I have studied past climate and environment response to Earth surface deformation and changes in Earth's orbit configuration. My main tool to do so is paleoclimate modeling but I am also familiar with various numerical and geomorphology tools useful to study the Earth surface ups and downs and mechanisms behind them. I try my best to make links among _things_ to better understand how the evolution of the geosphere connects with that of the climate system and the biosphere. My scientific interests are varying with seasons !     
-
+I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA). My research focuses on past climate and environment response to Earth surface deformation and changes in Earth’s orbit configuration using paleoclimate modeling.  My interest lies mainly in understanding how changes in atmospheric circulation affect upper ocean dynamics and our interpretation of the proxy record from time period such as the Pleistocene, the late and middle Miocene and the late Cretaceous. 
+  
 __<u>Research interests :</u>__
 
 - Neogene evolution of the Earth System 
