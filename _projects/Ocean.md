@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Miocene Ocean
-description: Probing changes in oceanography and associated mechanims (ongoing) 
+title: Neogen Oceans
+description: Drivers of ocean evolution from Miocene into Pliocene (ongoing) 
 img: /assets/img/Nepal.jpg
 importance: 1
 category: work
