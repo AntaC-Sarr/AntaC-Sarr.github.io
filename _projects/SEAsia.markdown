@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 4D - South-East Asia
-description: Mantle-climate-biosphere connections in SE Asia
+title: Pleistocene Sunda shelf evolution
+description: Mantle-climate-biosphere connections in SE Asia (2015-2019)
 img: /assets/img/Karimun.jpg
 importance: 3
 category: work
@@ -14,6 +14,8 @@ Temporal variations of land-sea mask distribution, triggered by vertical deforma
 - Vertical deformation in Sundaland (West Indonesia) during the Quaternary
 - Relation between geodynamics and vertical deformation
 - Impact of geography changes on regional climate
+
+ Further collaborations later aimed at investigating implication of my work on regional ecology. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -30,7 +32,7 @@ Temporal variations of land-sea mask distribution, triggered by vertical deforma
     Left - Progading Mangrova. Belitung, Sundaland. Middle - Granites. Belitung, Sundaland. Right - Emerged reef & Notch. South Sulawesi.
 </div>
   
-#### Relevant publications 
+##### Relevant publications 
 -Husson, L., Riel, N., Aribowo, S., Authemayou, C., de Gelder, G., Kaus, B. J. P., Mallard, C., Natawidjaja, D. H., Pedoja, K. and __Sarr A-C__. Slow Geodynamics and Fast Morphotectonics in the Far East Tethys. Geochemistry, Geophysics, Geosystems, 23(1):e2021GC010167 (2022).
 
 -Salles, T., Mallard, C., Husson, L., Zahirovic, S., __Sarr, A-C.__, Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia, Communications earth & environment 2 (2021).
