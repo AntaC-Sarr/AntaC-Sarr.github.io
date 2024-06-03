@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pleistocene Sunda shelf evolution
-description: Mantle-climate-biosphere connections in SE Asia (2015-2019)
+description: Insights into mantle-climate-biosphere connections (2015-2019)
 img: /assets/img/Karimun.jpg
 importance: 3
 category: work
