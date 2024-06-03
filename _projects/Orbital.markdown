@@ -7,7 +7,8 @@ importance: 2
 category: work
 ---
 
-Orbital parameters (obliquity, precession, eccentricity) describe the position of the Earth relative to the sun and the shape of Earth orbit. Combination of those parameters control the amount and seasonal distribution of solar energy received at the surface of the Earth and varies in time. Here we use ocean-atmosphere-biogeochemical model to understand how orbital variations control the variability of monsoon system and oceanic circulation and how this contributes to patterns retreived in the sedimentary record. 
+Orbital parameters (obliquity, precession, eccentricity) describe the position of the Earth relative to the sun and the shape of Earth orbit. Combination of those parameters control the amount and seasonal distribution of solar energy received at the surface of the Earth and varies in time. This axis aims at better understanding how orbital variations control contributes to patterns retreived in the sedimentary record. To do so we use Earth system model simulations that include marine biogeochemistry. 
+
 
 __Projects:__  
 _- Pleistocene Indo-Pacific Warm Pool._   
