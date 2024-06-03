@@ -2,8 +2,8 @@
 layout: page
 title: Neogen Oceans
 description: Drivers of ocean evolution from Miocene into Pliocene (ongoing) 
-img: /assets/img/Nepal.jpg
-importance: 1
+img: 
+importance: 3
 category: work
 ---
 
