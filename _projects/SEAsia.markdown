@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Pleistocene Sunda shelf evolution
+title: Pleistocene Sunda Shelf
 description: Insights into mantle-climate-biosphere connections (2015-2019)
 img: /assets/img/Karimun.jpg
-importance: 3
+importance: 5
 category: work
 ---
 
