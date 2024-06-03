@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Orbital variability
-description: Eccentricity impact on surface ocean & seasonality (2020-now)
+description: Eccentricity impact on surface ocean & seasonality (_ongoing_)
 img: /assets/img/7.jpg
 importance: 2
 category: work
