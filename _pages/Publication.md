@@ -18,7 +18,7 @@ __[23]__  🌦 Zhang, Z., Nie, J., Licht, A., Cogne, N., __Sarr A-C.__, Shen T.,
 #### Published
 
 ###### `2024`
-__[22]__ 🌊 Beaufort, L. & __Sarr, A-C.__. Eccentricity forcing on Tropical Ocean Seasonality (2024), in press at Climate of the Past.[[link](https://cp.copernicus.org/preprints/cp-2023-80/){:target="_blank"}].
+__[22]__ 🌊 Beaufort, L. & __Sarr, A-C.__. Eccentricity forcing on Tropical Ocean Seasonality (2024). Climate of the Past,20(6):1283-1301 [[link](https://cp.copernicus.org/articles/20/1283/2024/){:target="_blank"}].
 
 __[21]__ 🌦 Acosta, R.P., Burls, N.J., Pound, M.J., Bradshaw, C.D., De Boer, A.M., Herold, N., Huber, M., Liu, X., Donnadieu, Y., Farnsworth, A., Frigola, A., Lunt, D.J., von der Heydt, A.S., Hutchinson, D.K., Knorr, G.,  Lohmann, G., Marzocchi, A., Prange, M., __Sarr A.-C.__, Li, X. and Zhang, Z., A Model-Data Comparison of the Hydrological Response to Miocene Warmth: Leveraging the MioMIP1 Opportunistic Multi-Model Ensemble (2024). Paleoceanography and Paleoclimatology 39(1):e2020PA004054. [[link](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023PA004726){:target="_blank"}].
 
