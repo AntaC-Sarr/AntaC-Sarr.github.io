@@ -2,7 +2,7 @@
 layout: page
 title: Orbital variability
 description: Eccentricity impact on surface ocean & seasonality (ongoing)
-img: 
+img: /assets/img/sun.png
 importance: 1
 category: work
 ---
