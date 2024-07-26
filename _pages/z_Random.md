@@ -1,7 +1,7 @@
 ---
 layout: smallfont_page
 permalink: /randomstuffs/
-title: .Random
+title: _Random
 description: 
 nav: true
 ---
