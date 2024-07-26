@@ -20,7 +20,7 @@ _[with C.J. Poulsen]_
 
 `Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y.Donnadieu]_
 
-- Project [2 years] :  Orbital variations, ocean biogeochemistry and continental weathering.
+- Project [2 years] :  Impact of eccentricty on ocean seasonality and biogeochemistry.
 
 `Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y.Donnadieu]_
 
