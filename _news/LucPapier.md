@@ -5,4 +5,4 @@ inline: true
 ---
 
 
-Check our new [preprint](https://cp.copernicus.org/preprints/cp-2023-80/) on Eccentricity & surface ocean dynamics 🌊💫
+New [paper](https://cp.copernicus.org/preprints/cp-2023-80/) on Eccentricity & surface ocean dynamics 🌊💫
