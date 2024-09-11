@@ -12,7 +12,7 @@ _‡ PhD students_
 #### Under review / Preprints
 __[25]__ __Sarr, A-C.__, Do. E.L, Poulsen, C.J. 	Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective, _under review_ at Paleoceanography and Paleoclimatology.
 
-__[24]__ ‡Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx,B.. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
+__[24]__ ‡Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
 <p>&nbsp;</p>
 
 #### Published
