@@ -77,6 +77,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 - Climate of the Past
 - Geophysical Research Letters
 - Nature
-- Paleoclimatology & Paleoceanography 
+- Paleoclimatology & Paleoceanography
+- Science Advances
 
 
