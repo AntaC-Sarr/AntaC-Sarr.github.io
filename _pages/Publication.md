@@ -10,9 +10,9 @@ nav: true
 _‡ PhD students_
 
 #### Under review / Preprints
-__[25]__ __Sarr, A-C.__, Do. E.L, Poulsen, C.J. 	Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective, _under review_ at Paleoceanography and Paleoclimatology.
+__[25]__ 🌊 __Sarr, A-C.__, Do. E.L, Poulsen, C.J. 	Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective, _under review_ at Paleoceanography and Paleoclimatology.
 
-__[24]__ ‡Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
+__[24]__ 🌊 ‡Pillot, Q., __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. Impact of dust and temperature on primary productivity in Late Miocene oceans, _under review_ at Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
 <p>&nbsp;</p>
 
 #### Published
@@ -72,7 +72,7 @@ __[9]__ 🌦 Sepulchre, P., Caubel, A., Ladant, J-B., Bopp, L., Boucher, O., Bra
 
 __[8]__ 🐒 Husson, L., Boucher F., __Sarr, A-C.__, Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13762){:target="_blank"}]
 
-###### `2019`
+###### `Before 2019`
 
 __[7]__ 🌏 __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 [[link](https://pubs.geoscienceworld.org/gsa/geology/article/47/7/e470/571723/Subsiding-Sundaland-REPLY){:target="_blank"}]
 
@@ -83,8 +83,6 @@ __[6]__ ⛰ __Sarr, A-C.__, Mugnier, J-L., Abrahami, R., Carcaillet, J., Ravanel
 __[5]__ 🌦 __Sarr, A-C.__, Sepulchre, P., Husson, L. (2019). Impact of Sunda shelf exposure on the climate of the Maritime Continent. Journal of Geophysical Research: Atmospheres, 124. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JD029971){:target="_blank"}]
 
 __[4]__ 🌏 __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi. (2019). Subsiding Sundaland. Geology, 47:119-122.  [[link](https://hal.archives-ouvertes.fr/hal-02440378/document){:target="_blank"}]
-
-###### `Before 2018`
 
 __[3]__ 🪸 Husson, L., Pastier, A-M., Elliot, M., Pedoja, K., Paillard, D., Authemayou, C., __Sarr, A-C.__, Schmitt, A., Cahyarini, S. Y., Hantoro, W. S. (2018). Reef carbonate productivity during Quaternary glacial oscillations. Geochemistry, Geophysics, Geosystems, 19:1148-1164. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GC007335){:target="_blank"}]
 
