@@ -39,6 +39,7 @@ _Updated list of selected communications at conferences_
 <p>&nbsp;</p>
 
 #### Posters
+[6] __Sarr, A-C.__, Lee, D., Acosta, R.P., Poulsen, C.J.,Exploring the Isotopic Fingerprint of Atlantic Meridional Overturning Circulation in mid-Miocene simulations. AGU, Washington (USA) 2024.
 
 [5] __Sarr, A-C.__, Donnadieu,Y., Bolton, C. et al. Topographic evolution is responsible for diverging South Asian Monsoon Rainfall and Wind Histories during the Neogene. Geological Society of London event on 
 Asian Climate, Tectonics and Biodiversity, London (England) 2022.
