@@ -10,11 +10,11 @@ nav: true
 _‡ PhD students_
 
 #### Under review / Preprints
-__[27]__ Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures. _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://www.authorea.com/doi/full/10.22541/au.173991293.30623989){:target="_blank"}].
+__[27]__ 🌊 Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures. _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://www.authorea.com/doi/full/10.22541/au.173991293.30623989){:target="_blank"}].
 
-__[26]__ Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
+__[26]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 
-__[25]__ 🌊 , Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective, _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
+__[25]__ 🌊 __Sarr, A-C.__,Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective, _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
 
 
 <p>&nbsp;</p>
