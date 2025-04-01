@@ -74,10 +74,6 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
   - _Solid Earth and Oceans_
 
 ### Review Activity
-- Climate of the Past
-- Geophysical Research Letters
-- Nature
-- Paleoclimatology & Paleoceanography
-- Science Advances
+Climate of the Past, Geophysical Research Letters, Earth and Planetary Science Letters, Nature, Nature Geoscience, Paleoclimatology & Paleoceanography, Science Advances
 
 
