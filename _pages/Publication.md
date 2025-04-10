@@ -10,11 +10,13 @@ nav: true
 _‡ PhD students_
 
 #### Under review / Preprints
-__[27]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures. _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://www.authorea.com/doi/full/10.22541/au.173991293.30623989){:target="_blank"}].
+__[28]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures. _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://www.authorea.com/doi/full/10.22541/au.173991293.30623989){:target="_blank"}].
 
-__[26]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
+__[27]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 
-__[25]__ 🌊 __Sarr, A-C.__,Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective, _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
+__[26]__ 🌊 Lyu J., Barragán-Montilla, S., Auer, G., Bialik, O.M., Del Gaudio, A.V. __Sarr, A-C.__, De Vleeschouwer, D., Oxygenated bottom water conditions on Broken Ridge (central Indian Ocean) in the last 9 million years. _in revision_ Frontiers in Earth Sciences: Paleontology.
+
+__[25]__ 🌊 __Sarr, A-C.__,Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, accepted. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
 
 
 <p>&nbsp;</p>
@@ -22,7 +24,7 @@ __[25]__ 🌊 __Sarr, A-C.__,Poulsen, C.J., Do. E.L, Revisiting the early Late C
 #### Published
 
 ###### `2025`
-__[24]__ 🌊 ‡Pillot, Q., * __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. _(*corresponding author)_ Impact of dust and temperature on primary productivity in Late Miocene oceans, Paleoceanography and Paleoclimatology 40(1):e2023PA004838.  [[link](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
+__[24]__ 🌊 ‡Pillot, Q., * __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. _(*corresponding author)_ Impact of dust and temperature on primary productivity in Late Miocene oceans (2025). Paleoceanography and Paleoclimatology 40(1):e2023PA004838.  [[link](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
 
 __[23]__  🌦 Zhang, Z., Nie, J., Licht, A., Cogne, N., __Sarr A-C.__, Shen T., Liu, X., Wang, W., Gao, P., Li, L., Poujol, M., Guihou, A., Deschamps, P., and Hao, L., Anti-phase variation of long eccentricity and precipitation in inland Asia during the Middle Miocene Climatic Optimum (2025). GSA Bulletin 37 (1-2): 51–66. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/doi/10.1130/B37333.1/645171/Anti-phase-variation-of-long-eccentricity-and?redirectedFrom=fulltext){:target="_blank"}].
 
@@ -104,3 +106,23 @@ __[1]__ ⛰ Potel, S., Maison, T., Maillet, M., __Sarr, A-C.__, Dublier M. P., T
 __[1]__ ⛰🌦 Fluteau, F., Tardif, D., __Sarr, A-C.__, Le Hir, G., Donnadieu, Y. Orogenesis and Climate. _In_ Himalaya, Dynamics of a Giant 3 (eds R. Cattin and J.-L. Epard). [[link](https://doi.org/10.1002/9781394228683.ch1){:target="_blank"}]
 
 <p>&nbsp;</p>
+
+#### Data Set
+
+__[6]__ __Sarr, A-C.__, Poulsen, C. and Do, E.L (2025). iCESM1.2 Cenomanian Turonian simulations with varying
+pCO2. Zenodo. Restricted access until paper is published review. [10.5281/zenodo.13351187](https://doi.org/10.5281/zenodo.15191756).
+
+__[5]__  __Sarr, A-C.__. and Beaufort, L. (2024) . Response to Sea Surface Temperature and Primary Productivity to
+change in Earth's Orbit Eccentricity – Simulations. Zenodo. [10.5281/zenodo.10951600](https://doi.org/10.5281/zenodo.10951600).
+
+__[4]__  Martinot, C., Bolton, C.T., __Sarr, A-C.__, et al. (2022): Climatic simulations from the equatorial Indian
+Ocean. PANGAEA. https://doi.org/10.1594/PANGAEA.941973
+
+__[3]__  __Sarr, A-C.__ & Laugié, M. (2022) Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation
+variability in response to idealized orbital configurations. Zenodo. [10.5281/zenodo.6641306](https://doi.org/10.5281/zenodo.6641306).
+
+__[2]__  __Sarr, A-C.__ (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during
+the Miocene in response to change in regional topography. Zenodo.  [10.5281/zenodo.5727042](https://doi.org/10.5281/zenodo.5727042). 
+
+__[1]__  Beaufort, L., Bolton, C., __Sarr, A-C.__ (2021). Morphometry, and mass accumulation rates of Indo-Pacific
+Pleistocene coccoliths and associated Climatic Simulations. SEANOE. [10.17882/84031](https://doi.org/10.17882/84031). 
