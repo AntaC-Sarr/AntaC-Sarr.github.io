@@ -107,7 +107,7 @@ __[1]__ ⛰🌦 Fluteau, F., Tardif, D., __Sarr, A-C.__, Le Hir, G., Donnadieu, 
 
 <p>&nbsp;</p>
 
-#### Data Set
+#### Data Sets
 
 __[6]__ __Sarr, A-C.__, Poulsen, C. and Do, E.L (2025). iCESM1.2 Cenomanian Turonian simulations with varying
 pCO2. [Zenodo.](https://doi.org/10.5281/zenodo.15191756).
@@ -116,7 +116,7 @@ __[5]__  __Sarr, A-C.__. and Beaufort, L. (2024) . Response to Sea Surface Tempe
 change in Earth's Orbit Eccentricity – Simulations. [Zenodo.](https://doi.org/10.5281/zenodo.10951600).
 
 __[4]__  Martinot, C., Bolton, C.T., __Sarr, A-C.__, et al. (2022): Climatic simulations from the equatorial Indian
-Ocean. [PANGAEA.]([https://doi.org/10.5281/zenodo.10951600](https://doi.org/10.1594/PANGAEA.941973))
+Ocean. [PANGAEA.](https://doi.org/10.1594/PANGAEA.941973)
 
 __[3]__  __Sarr, A-C.__ & Laugié, M. (2022) Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation
 variability in response to idealized orbital configurations. [Zenodo.](https://doi.org/10.5281/zenodo.6641306).
