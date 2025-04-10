@@ -14,9 +14,9 @@ __[28]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Oc
 
 __[27]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 
-__[26]__ 🌊 Lyu J., Barragán-Montilla, S., Auer, G., Bialik, O.M., Del Gaudio, A.V. __Sarr, A-C.__, De Vleeschouwer, D., Oxygenated bottom water conditions on Broken Ridge (central Indian Ocean) in the last 9 million years. _in revision_ Frontiers in Earth Sciences: Paleontology.
+__[26]__ 🌊 Lyu J., Barragán-Montilla, S., Auer, G., Bialik, O.M., Del Gaudio, A.V., __Sarr, A-C.__, De Vleeschouwer, D., Oxygenated bottom water conditions on Broken Ridge (central Indian Ocean) in the last 9 million years. _in revision_ Frontiers in Earth Sciences: Paleontology.
 
-__[25]__ 🌊 __Sarr, A-C.__,Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, accepted. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
+__[25]__ 🌊 __Sarr, A-C.__, Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, accepted. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
 
 
 <p>&nbsp;</p>
