@@ -14,17 +14,16 @@ __[28]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Oc
 
 __[27]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 
-__[26]__ 🌊 Lyu J., Barragán-Montilla, S., Auer, G., Bialik, O.M., Del Gaudio, A.V., __Sarr, A-C.__, De Vleeschouwer, D., Oxygenated bottom water conditions on Broken Ridge (central Indian Ocean) in the last 9 million years. _in revision_ Frontiers in Earth Sciences: Paleontology.
-
-__[25]__ 🌊 __Sarr, A-C.__, Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, accepted. [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
-
-
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2025`
-__[24]__ 🌊 ‡Pillot, Q., * __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. _(*corresponding author)_ Impact of dust and temperature on primary productivity in Late Miocene oceans (2025). Paleoceanography and Paleoclimatology 40(1):e2023PA004838.  [[link](https://essopenarchive.org/doi/full/10.22541/essoar.170535289.98737663/v1){:target="_blank"}].
+__[26]__ 🌊 __Sarr, A-C.__, Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, 40, e2024PA005002. [[link](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
+
+__[25]__ 🌊 Lyu J., Barragán-Montilla, S., Auer, G., Bialik, O.M., Del Gaudio, A.V., __Sarr, A-C.__, De Vleeschouwer, D., Oxygenated bottom water conditions on Broken Ridge (central Indian Ocean) in the last 9 million years (2025). _in press_ Frontiers in Earth Sciences: Paleontology.
+
+__[24]__ 🌊 ‡Pillot, Q., * __Sarr, A-C.__, Donnadieu, Y., Gramoulle, A., Sucheras-Marx, B. _(*corresponding author)_ Impact of dust and temperature on primary productivity in Late Miocene oceans (2025). Paleoceanography and Paleoclimatology 40(1):e2023PA004838.  [[link](https://doi.org/10.1029/2024PA005002){:target="_blank"}].
 
 __[23]__  🌦 Zhang, Z., Nie, J., Licht, A., Cogne, N., __Sarr A-C.__, Shen T., Liu, X., Wang, W., Gao, P., Li, L., Poujol, M., Guihou, A., Deschamps, P., and Hao, L., Anti-phase variation of long eccentricity and precipitation in inland Asia during the Middle Miocene Climatic Optimum (2025). GSA Bulletin 37 (1-2): 51–66. [[link](https://pubs.geoscienceworld.org/gsa/gsabulletin/article-abstract/doi/10.1130/B37333.1/645171/Anti-phase-variation-of-long-eccentricity-and?redirectedFrom=fulltext){:target="_blank"}].
 
