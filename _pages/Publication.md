@@ -10,16 +10,16 @@ nav: true
 _‡ PhD students_
 
 #### Under review / Preprints
-__[28]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures. _in revision_ for Paleoceanography and Paleoclimatology. [[preprint](https://www.authorea.com/doi/full/10.22541/au.173991293.30623989){:target="_blank"}].
+__[28]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 
-__[27]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in discussion_ Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
+__[27]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures. _Accepted_ for Paleoceanography and Paleoclimatology. [[preprint](https://www.authorea.com/doi/full/10.22541/au.173991293.30623989){:target="_blank"}].
 
 <p>&nbsp;</p>
 
 #### Published
 
 ###### `2025`
-__[26]__ 🌊 __Sarr, A-C.__, Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, 40, e2024PA005002. [[link](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}]. 
+__[26]__ 🌊 __Sarr, A-C.__, Poulsen, C.J., Do. E.L, Revisiting the early Late Cretaceous Equable Climate Problem through a model-data perspective (2025). Paleoceanography and Paleoclimatology, 40, e2024PA005002. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024PA005002){:target="_blank"}]. 
 
 __[25]__ 🌊 Lyu J., Barragán-Montilla, S., Auer, G., Bialik, O.M., Del Gaudio, A.V., __Sarr, A-C.__, De Vleeschouwer, D., Oxygenated bottom water conditions on Broken Ridge (central Indian Ocean) in the last 9 million years (2025). _in press_ Frontiers in Earth Sciences: Paleontology.
 
