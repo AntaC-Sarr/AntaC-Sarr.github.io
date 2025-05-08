@@ -31,7 +31,7 @@ _[with C.J. Poulsen]_
 
 `Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_
 
--  __Marine biogeochemical modeling. Miocene climate evolution. Monsoons__
+-  __Marine biogeochemical modeling. Miocene climate. Monsoons.__
 
 `Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, FR) and LSCE (Paris, FR) _[with L. Husson & P. Sepulchre]_
 
