@@ -10,7 +10,7 @@ horizontal: false
 
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
-### Research Experiences
+#### Research Experiences
 
 `11.2023 - present` __Postdoctoral Scholar__ in Paleoclimate Modeling \
 University of Oregon, Department of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
