@@ -14,7 +14,7 @@ horizontal: false
 <p></p>
 
 `11.2023 - present` __Postdoctoral Scholar__ in Paleoclimate Modeling \
-University of Oregon, Department of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
+University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
 
 - Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
 
