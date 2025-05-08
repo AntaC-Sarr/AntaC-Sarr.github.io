@@ -1,7 +1,7 @@
 ---
 layout: smallfont_page
 title: about me
-permalink: /cv/
+permalink: /aboutme/
 description: 
 nav: true
 display_categories: [work, fun]
