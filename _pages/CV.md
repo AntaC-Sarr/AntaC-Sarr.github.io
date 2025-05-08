@@ -1,6 +1,6 @@
 ---
 layout: smallfont_page
-title: C.V.
+title: about me
 permalink: /cv/
 description: 
 nav: true
