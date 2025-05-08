@@ -20,7 +20,7 @@ University of Oregon, Department of Earth Sciences, Eugene, USA _[C.J. Poulsen g
 `11.2022 - 10.2023` __Research Fellow__ in Earth System Science \
 Institut des Sciences de la Terre, Grenoble, FR \
 
-- Project on Solid Earth, Climate and Biology coupling, awarded by the _Observatoire des Sciences de l'univers de Grenoble_
+- Project on Solid Earth, Climate and Biosphere coupling, awarded by the _Observatoire des Sciences de l'univers de Grenoble_
   
 `10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling\
 Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
@@ -32,17 +32,20 @@ CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
 -  Marine biogeochemical modeling. Miocene climate. Monsoons.
 
-`09.2015 - 12.2018` __Ph.D candidate__ in Earth Sciences \
+`09.2015 - 12.2018` __Ph.D Researcher__ in Earth Sciences \
 University Grenoble Alpes, Institut des Sciences de la Terre, Grenoble, FR  \
 & LSCE, Paris, FR 
 
--  PhD disertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
+-  PhD dissertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
 _[Supervision : L. Husson & P. Sepulchre]_
 
-`09.2014 - 08.2014` __MsC__ in Earth Sciences \
+`09.2014 - 08.2015` __MsC__ in Earth Sciences \
 University Grenoble Alpes, Institut des Sciences de la Terre, Chambery, FR 
 
--  Master thesis : Estimating sidewall erosion in the Mont Blanc massif (France): insights from in-situ produced 10Be erosion rates
+-  MsC thesis : Estimating sidewall erosion in the Mont Blanc massif (France): insights from in-situ produced 10Be erosion rates
+
+`09.2010 - 08.2015` __Engineering degree__ in Geology & Geophysics \
+UniLasalle, Beauvais, FR
 
 <p>&nbsp;</p>
 
