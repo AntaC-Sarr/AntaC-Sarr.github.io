@@ -1,7 +1,7 @@
 ---
 layout: smallfont_page
-permalink: /randomstuffs/
-title: _Random
+permalink: /more/
+title: Resources
 description: 
 nav: true
 ---
