@@ -10,36 +10,37 @@ horizontal: false
 
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
-### Education
-
-- `2018` Ph.D Earth Sciences, Grenoble Alpes University, FR
-- `2015` MsC Earth Sciences, Grenoble Alpes University, FR
-- `2015` MsC Geology and Geophysics, UniLasalle, FR
-<p>&nbsp;</p>
-
 ### Research Experiences
 
-`11.2023 - present ` __Postdoctoral Scholar__ in Paleoclimate Modeling <br>
-Department of Earth Sciences (University of Oregon - Eugene, USA) _[with C.J. Poulsen]_</br>
+`11.2023 - present` __Postdoctoral Scholar__ in Paleoclimate Modeling \
+University of Oregon, Department of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
+
 - Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
 
-`11.2022 - 10.2023` __Research Fellow__ in Earth System Science <br>
-Institut des Sciences de la Terre (ISTerre - Grenoble, FR)</br>
+`11.2022 - 10.2023` __Research Fellow__ in Earth System Science \
+Institut des Sciences de la Terre, Grenoble, FR 
 
-`10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling <br>
-Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_</br>
+`10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling\
+Aix-Marseille University, CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
 -  Marine biogeochemical modeling. Earth' orbit eccentricity. Ocean seasonality.
 
-`09.2019 - 09.2020` __Postdoctoral Research Associate__ in Paleoclimate modeling <br>
-Centre de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_</br>
+`09.2019 - 09.2020` __Postdoctoral Research Associate__ in Paleoclimate modeling \
+CNRS, CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
 -  Marine biogeochemical modeling. Miocene climate. Monsoons.
 
-`09.2015 - 12.2018` __Ph.D candidate__ in Earth Sciences <br>
-Institut des Sciences de la Terre (ISTerre -  Grenoble, FR) & LSCE (Paris, FR) _[with L. Husson & P. Sepulchre]_</br>
+`09.2015 - 12.2018` __Ph.D candidate__ in Earth Sciences \
+University Grenoble Alpes, Institut des Sciences de la Terre, Grenoble, FR  \
+& LSCE, Paris, FR 
 
--  PhD disertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation
+-  PhD disertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
+_[Supervision : L. Husson & P. Sepulchre]_
+
+`09.2014 - 08.2014` __MsC__ in Earth Sciences \
+University Grenoble Alpes, Institut des Sciences de la Terre, Chambery, FR 
+
+-  Master thesis : Estimating sidewall erosion in the Mont Blanc massif (France): insights from in-situ produced 10Be erosion rates
 
 <p>&nbsp;</p>
 
