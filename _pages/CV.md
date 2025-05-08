@@ -10,27 +10,32 @@ horizontal: false
 
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
+### Education
+
+- `2018` Ph.D Earth Sciences, Grenoble Alpes University, FR
+- `2015` MsC Earth Sciences, Grenoble Alpes University, FR
+- `2015` MsC Geology and Geophysics, UniLasalle, FR
+<p>&nbsp;</p>
+
 ### Research Experiences
 
 `From Nov. 2023`. Postdoctoral Scholar in Paleoclimate Modeling – at Department of Earth Sciences (University of Oregon - Eugene, USA)
 _[with C.J. Poulsen]_
-- Projects :  Water Isotopes, Past warm climate.
+- __Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.__
 
 `Nov. 2022 - Oct. 2023`. Research Fellow in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, FR)
 
-`Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y.Donnadieu]_
+`Oct. 2020 - Oct. 2022`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_
 
-- Project [2 years] :  Impact of Earth' orbit eccentricty on ocean seasonality and biogeochemistry.
+-  __Marine biogeochemical modeling. Earth' orbit eccentricity. Ocean seasonality.__
 
-`Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y.Donnadieu]_
+`Sep. 2019 - Sept. 2020`. Postdoctoral Research Associate in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_
 
-- Project [1 year] :  Impact of paleogeography on the climate and ocean evolution during the Miocene.
+-  __Marine biogeochemical modeling. Miocene climate evolution. Monsoons__
 
-`Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, FR) and LSCE (Paris, FR) _[with L.Husson & P. Sepulchre]_
+`Sep. 2015 - Dec. 2018`  Ph.D candidate in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, FR) and LSCE (Paris, FR) _[with L. Husson & P. Sepulchre]_
 
-- Projet [3 years] : Quaternary subsidence in Southeast Asia: from mantle dynamics to atmospheric circulation.
-  
-    _Paleoclimate modeling. Geomorphology. Coral reef modeling. Subduction modeling_
+-  __Atmosphere modeling. Coral reef geomorphology. Quaternary subsidence in Southeast Asia.__
 
 <p>&nbsp;</p>
 
@@ -45,12 +50,6 @@ _[with C.J. Poulsen]_
 _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA, FR) (2017, 2019, 2020, 2021, 2022 hours attribution - Project PI: P. Sepulchre, LSCE)_
 
 <p>&nbsp;</p>
-
-### Education
-
-- `2018` Ph.D Earth Sciences, Grenoble Alpes University, FR
-- `2015` MsC Earth Sciences, Grenoble Alpes University, FR
-- `2015` MsC Geology and Geophysics, UniLasalle, FR
 
 ### Mentoring
 
