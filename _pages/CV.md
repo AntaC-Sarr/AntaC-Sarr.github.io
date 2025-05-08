@@ -19,21 +19,25 @@ horizontal: false
 
 ### Research Experiences
 
-`11.2023 - present ` __Postdoctoral Scholar__ in Paleoclimate Modeling – at Department of Earth Sciences (University of Oregon - Eugene, USA)
-_[with C.J. Poulsen]_
+`11.2023 - present ` __Postdoctoral Scholar__ in Paleoclimate Modeling <br>
+Department of Earth Sciences (University of Oregon - Eugene, USA) _[with C.J. Poulsen]_</br>
 - Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
 
-`11.2022 - 10.2023` __Research Fellow__ in Earth System Science – at Institut des Sciences de la Terre (ISTerre - Grenoble, FR)
+`11.2022 - 10.2023` __Research Fellow__ in Earth System Science <br>
+Institut des Sciences de la Terre (ISTerre - Grenoble, FR)</br>
 
-`10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_
+`10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling <br>
+Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_</br>
 
 -  Marine biogeochemical modeling. Earth' orbit eccentricity. Ocean seasonality.
 
-`09.2019 - 09.2020` __Postdoctoral Research Associate__ in Paleoclimate modeling – at Centre Européen de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_
+`09.2019 - 09.2020` __Postdoctoral Research Associate__ in Paleoclimate modeling <br>
+Centre de Recherche et d’Enseignement en Géosciences de l’Environnement (CEREGE – Aix-en-Provence, FR) _[with Y. Donnadieu]_</br>
 
 -  Marine biogeochemical modeling. Miocene climate. Monsoons.
 
-`09.2015 - 12.2018` __Ph.D candidate__ in Earth Sciences – at Institut des Sciences de la Terre (ISTerre -  Grenoble, FR) and LSCE (Paris, FR) _[with L. Husson & P. Sepulchre]_
+`09.2015 - 12.2018` __Ph.D candidate__ in Earth Sciences <br>
+Institut des Sciences de la Terre (ISTerre -  Grenoble, FR) & LSCE (Paris, FR) _[with L. Husson & P. Sepulchre]_</br>
 
 -  PhD disertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation
 
