@@ -41,7 +41,7 @@ University Grenoble Alpes, ISTerre, Grenoble, FR  \
 _[Supervision : L. Husson & P. Sepulchre]_
 
 `09.2014 - 08.2015` __MsC__ in Earth Sciences \
-University Grenoble Alpes, Institut des Sciences de la Terre, Chambery, FR 
+University Grenoble Alpes, University Grenoble Alpes, Chambery, FR 
 
 -  MsC thesis : Estimating sidewall erosion in the Mont Blanc massif (France): insights from in-situ produced 10Be erosion rates
 
