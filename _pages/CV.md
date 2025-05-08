@@ -21,7 +21,7 @@ University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
 `11.2022 - 10.2023` __Research Fellow__ in Earth System Science \
 University Grenoble Alpes, ISTerre, Grenoble, FR \
 
-- Project on Solid Earth, Climate and Biosphere coupling, awarded by the _Observatoire des Sciences de l'univers de Grenoble_
+- Project on Solid Earth, Climate and Biosphere coupling, awarded by the _Observatoire des Sciences de l'Univers de Grenoble_
   
 `10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling\
 Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
@@ -45,9 +45,10 @@ University Grenoble Alpes, University Grenoble Alpes, Chambery, FR
 
 -  MsC thesis : Estimating sidewall erosion in the Mont Blanc massif (France): insights from in-situ produced 10Be erosion rates
 
-`09.2010 - 08.2015` __Engineering degree__ in Geology & Geophysics \
+`09.2010 - 08.2015` __Engineering Degree__ in Geology & Geophysics \
 UniLasalle, Beauvais, FR
 
+-  BsC thesis : Characterizing low grade metamorphism using clay minerals: application to Southern Vosges (France)
 <p>&nbsp;</p>
 
 #### Fellowships & Grants
