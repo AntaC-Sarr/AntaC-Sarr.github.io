@@ -11,6 +11,7 @@ horizontal: false
 📄 PDF version [here](/assets/pdf/CV2023_ACSarr.pdf){:target="_blank"}
 
 #### Research Experiences
+<p></p>
 
 `11.2023 - present` __Postdoctoral Scholar__ in Paleoclimate Modeling \
 University of Oregon, Department of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
@@ -49,7 +50,7 @@ UniLasalle, Beauvais, FR
 
 <p>&nbsp;</p>
 
-### Fellowships & Grants
+#### Fellowships & Grants
 -  `2024`__BQR research project__ (Internal call ISTerre lab.) [4k€ - co-PI]
 -  `2023`__BQR research project__ (Internal call ISTerre lab.) [3k€ - PI]
 - `2022-2024`LabEX OSUG (U. Grenoble Alpes, FR) __Postdoc Grant for "Strategic Projects"__ [103 k€ - design and write the project]
@@ -61,7 +62,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 <p>&nbsp;</p>
 
-### Mentoring
+#### Mentoring
 
 ###### Master students
 - __Julie Le Merrer__, MsC 2nd year (University Grenoble Alpes, FR) - Principal Advisor. Co-advisors: S. Lavergne & L. Husson (Duration: 5 months). 2024
