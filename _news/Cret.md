@@ -5,6 +5,6 @@ inline: true
 ---
 
 
-📄 New [[preprint](https://essopenarchive.org/users/741555/articles/1217175-revisiting-the-early-late-cretaceous-equable-climate-problem-through-a-model-data-perspective){:target="_blank"}] on late Cretaceous water isotopes and sea surface temperatures ! 
+📄 New [[paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2024PA005002){:target="_blank"}] on late Cretaceous water isotopes and sea surface temperatures ! 
 
 
