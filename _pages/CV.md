@@ -1,6 +1,6 @@
 ---
 layout: smallfont_page
-title: About me
+title: about me
 permalink: /aboutme/
 description: 
 nav: true
