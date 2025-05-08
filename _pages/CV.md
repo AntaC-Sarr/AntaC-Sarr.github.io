@@ -18,15 +18,17 @@ University of Oregon, Department of Earth Sciences, Eugene, USA _[C.J. Poulsen g
 - Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
 
 `11.2022 - 10.2023` __Research Fellow__ in Earth System Science \
-Institut des Sciences de la Terre, Grenoble, FR 
+Institut des Sciences de la Terre, Grenoble, FR \
 
+- Project on Solid Earth, Climate and Biology coupling, awarded by the _Observatoire des Sciences de l'univers de Grenoble_
+  
 `10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling\
-Aix-Marseille University, CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
+Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
 -  Marine biogeochemical modeling. Earth' orbit eccentricity. Ocean seasonality.
 
 `09.2019 - 09.2020` __Postdoctoral Research Associate__ in Paleoclimate modeling \
-CNRS, CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
+CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
 -  Marine biogeochemical modeling. Miocene climate. Monsoons.
 
