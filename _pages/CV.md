@@ -19,7 +19,7 @@ University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
 - Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
 
 `11.2022 - 10.2023` __Research Fellow__ in Earth System Science \
-Institut des Sciences de la Terre, Grenoble, FR \
+University Grenoble Alpes, ISTerre, Grenoble, FR \
 
 - Project on Solid Earth, Climate and Biosphere coupling, awarded by the _Observatoire des Sciences de l'univers de Grenoble_
   
@@ -34,7 +34,7 @@ CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 -  Marine biogeochemical modeling. Miocene climate. Monsoons.
 
 `09.2015 - 12.2018` __Ph.D Researcher__ in Earth Sciences \
-University Grenoble Alpes, Institut des Sciences de la Terre, Grenoble, FR  \
+University Grenoble Alpes, ISTerre, Grenoble, FR  \
 & LSCE, Paris, FR 
 
 -  PhD dissertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
