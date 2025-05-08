@@ -9,12 +9,12 @@ nav: true
 
 _‡ PhD students_
 
-#### Under review / Preprints
+##### Under review / Preprints
 __[28]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in revision_ for Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 
 <p>&nbsp;</p>
 
-#### Published
+##### Published
 
 ###### `2025`
 __[27]__ 🌊 ‡Lee. D, __Sarr, A-C.__, Acosta, R.P, Poulsen, C.J., Multiple Ocean Equilibria and Decoupling of Miocene Atmospheric pCO2 and Regional Temperatures (2025). Paleoceanography and Paleoclimatology 40(5):e2025PA005126. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2025PA005126){:target="_blank"}].
@@ -100,13 +100,13 @@ __[1]__ ⛰ Potel, S., Maison, T., Maillet, M., __Sarr, A-C.__, Dublier M. P., T
 
 <p>&nbsp;</p>
 
-#### Book chapter
+##### Book chapter
 
 __[1]__ ⛰🌦 Fluteau, F., Tardif, D., __Sarr, A-C.__, Le Hir, G., Donnadieu, Y. Orogenesis and Climate. _In_ Himalaya, Dynamics of a Giant 3 (eds R. Cattin and J.-L. Epard). [[link](https://doi.org/10.1002/9781394228683.ch1){:target="_blank"}]
 
 <p>&nbsp;</p>
 
-#### Data Sets
+##### Data Sets
 
 __[6]__ __Sarr, A-C.__, Poulsen, C. and Do, E.L (2025). iCESM1.2 Cenomanian Turonian simulations with varying
 pCO2. [Zenodo.](https://doi.org/10.5281/zenodo.15191756).
