@@ -10,8 +10,9 @@ nav: true
 _‡ PhD students_
 
 ##### Under review / Preprints
-__[28]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _in revision_ for Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
+__[29]__ Papadomanolaki., N.M., __Sarr, A-C.__, Gramoullé, A., Laugié, M., Ladant, J.-B., Donnadieu, Y. Mesozoic to Cenozoic bathymetric and gateway changes reduced Atlantic Ocean sensitivity to deoxygenation. _submitted_ to Climate of the Past.
 
+__[28]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _accepted_ for Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 <p>&nbsp;</p>
 
 ##### Published
