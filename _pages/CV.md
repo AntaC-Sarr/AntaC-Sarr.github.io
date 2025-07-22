@@ -13,7 +13,10 @@ horizontal: false
 #### Research Experiences
 <p></p>
 
-`11.2023 - present` __Postdoctoral Scholar__ in Paleoclimate Modeling \
+`From 02.2026` __Research Scientist__  _(Chargé de recherche CNRS)_ \
+CNRS | CEREGE, Aix-en-Provence, FR
+
+`11.2023 - 01.2026` __Postdoctoral Scholar__ in Paleoclimate Modeling \
 University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
 
 - Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
