@@ -15,7 +15,7 @@ __[30]__ Papadomanolaki., N.M., __Sarr, A-C.__, Gramoullé, A., Laugié, M., Lad
 __[29]__ Courtial-Manent, L., Mugnier, J.-L., __Sarr, A-C.__, Ravanel, L., Carcaillet, J., Vassallo, R., Schwing, A.,
 Rockwall erosion rate inferred from in-situ 10Be concentration of supraglacial clasts: a review. _in revision_ for Geographica Helvetica.
 
-__[28]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate. _accepted_ for Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
+__[28]__ 🌊 Maffre, P., Godderis, Y., Le Hir, G., Nardin, E., __Sarr, A-C.__, Donnadieu, Y., GEOCLIM7, an Earth System Model for multi-million years evolution of the geochemical cycles and climate (2025). _accepted_ for Geoscientific Model Development. [[preprint](https://gmd.copernicus.org/preprints/gmd-2024-220/){:target="_blank"}].
 <p>&nbsp;</p>
 
 ##### Published
