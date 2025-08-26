@@ -83,7 +83,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
   - _Climate modeling_
   - _Climate modeling 101_
 
-- University Grenoble Alpes, FR (MsC Degree in Earth System Sciences) (2023)
+- University Grenoble Alpes, FR (MsC Degree in Earth System Sciences) (2023, 2025)
   - _Solid Earth and Atmosphere_
   - _Solid Earth and Oceans_
 
