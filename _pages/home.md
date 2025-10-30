@@ -18,16 +18,23 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA). My research focuses on past climate and environment response to Earth surface deformation and changes in Earth’s orbit configuration using paleoclimate modeling.  My interest lies mainly in understanding how changes in atmospheric circulation affect upper ocean dynamics and our interpretation of the proxy record from time period such as the Pleistocene, the late and middle Miocene and the late Cretaceous. 
-  
-__<u>Research interests :</u>__
+I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA), but will start my own group at CEREGE (France) early 2026.
 
-- Neogene evolution of the Earth System 
-- (Paleo-)climate and ocean modeling
-- Eccentricity effect on the ocean
-- Water isotopes in paleo
+My research focuses at understanding past changes in ocean and atmospheric circulation using __Earth System Modeling__. To do so I blend __tracers-enabled climate models__ (marine biogeochemistry, isotopes) with any type of proxy records available. 
 
+Most of my __ongoing projects__ encompass the following themes :
 
+- Neogene (23-3 Ma) ocean-atmosphere dynamics, with emphasis on monsoons, Indian Ocean and/or Intermediate water circulation
+- Tracers-enabled climate models for data-model integration 
+- (Paleo)Ocean and planktons across timescales
+
+I am also interested at exploring variability and teleconnections especially related to the Indian Ocean at any time scales.
+
+At the moment, I do not have funding for Master, PhD or Postdoctoral positions but I am happy to discuss and explore external funding opportunities with anyone interested, including MSCA Postdocs fellowship (https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) (open to anyone, deadline in September each year).
+
+I welcome colleagues with expertise in analytical tools but that wish to explore modeling as much as modelers. CEREGE (https://www.cerege.fr/en/) has an extended geochemistry & micropaleontology expertise & infrastructure that is ideal to develop collaborative data-model approaches. 
+
+You can also contact me if you aim at applying for tenured positions at CNRS (https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/) or IRD (https://en.ird.fr/researcher-competitive-recruitement) (national recruitment process in France) and want to discuss about it. 
 
 
 
