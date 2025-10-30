@@ -18,9 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA), but will start my own group at CEREGE (France) early 2026.
-
-My research focuses at understanding past changes in ocean and atmospheric circulation using __Earth System Modeling__. To do so I blend __tracers-enabled climate models__ (marine biogeochemistry, isotopes) with any type of proxy records available. 
+I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA), but will start my own group at [[CEREGE](https://www.cerege.fr/en/){:target="_blank"}] (France) early 2026. My research focuses at understanding past changes in ocean and atmospheric circulation using __Earth System Modeling__. To do so I blend __tracers-enabled climate models__ (marine biogeochemistry, isotopes) with any type of proxy records available. 
 
 Most of my __ongoing projects__ encompass the following themes :
 
@@ -30,11 +28,9 @@ Most of my __ongoing projects__ encompass the following themes :
 
 I am also interested at exploring variability and teleconnections especially related to the Indian Ocean at any time scales.
 
-At the moment, I do not have funding for Master, PhD or Postdoctoral positions but I am happy to discuss and explore external funding opportunities with anyone interested, including MSCA Postdocs fellowship (https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025) (open to anyone, deadline in September each year).
+At the moment, I do not have funding for Master, PhD or Postdoctoral positions but I am happy to discuss and explore external funding opportunities with anyone interested, including MSCA Postdocs fellowship [[fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/calls/msca-postdoctoral-fellowships-2025){:target="_blank"}] (open to anyone, deadline in September each year). I welcome colleagues with expertise in analytical tools but that wish to explore modeling as much as modelers. [[CEREGE](https://www.cerege.fr/en/){:target="_blank"}] has an extended geochemistry & micropaleontology expertise/infrastructure that is ideal to develop collaborative data-model approaches. 
 
-I welcome colleagues with expertise in analytical tools but that wish to explore modeling as much as modelers. CEREGE (https://www.cerege.fr/en/) has an extended geochemistry & micropaleontology expertise & infrastructure that is ideal to develop collaborative data-model approaches. 
-
-You can also contact me if you aim at applying for tenured positions at CNRS (https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/) or IRD (https://en.ird.fr/researcher-competitive-recruitement) (national recruitment process in France) and want to discuss about it. 
+You can also contact me if you aim at applying for tenured positions at [[CNRS](https://carrieres.cnrs.fr/en/external-competitions-for-researchers-m-f/){:target="_blank"}] or [[IRD](https://en.ird.fr/researcher-competitive-recruitement){:target="_blank"}]IRD (those are national-scale recruitment process in France) and want to discuss about the process or potential collaborations. 
 
 
 
