@@ -19,6 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I currently am a Postdoctoral Scholar at Department of Earth Sciences, University of Oregon (USA), but will start my own group at [[CEREGE](https://www.cerege.fr/en/){:target="_blank"}] (France) early 2026. My research focuses at understanding past changes in ocean and atmospheric circulation using __Earth System Modeling__. To do so I blend __tracers-enabled climate models__ (marine biogeochemistry, isotopes) with any type of proxy records available. 
+<p>&nbsp;</p>
 
 Most of my __ongoing projects__ encompass the following themes :
 
