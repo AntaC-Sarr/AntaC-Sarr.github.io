@@ -13,7 +13,7 @@ horizontal: false
 #### Research Experiences
 <p></p>
 
-`From 02.2026` __Research Scientist__ \
+`From 02.2026` __CNRS Research Scientist__ \
 CEREGE, Aix-en-Provence, FR
 
 `11.2023 - 01.2026` __Postdoctoral Scholar__ in Paleoclimate Modeling \
