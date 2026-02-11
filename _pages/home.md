@@ -8,10 +8,11 @@ profile:
   align: right
   image: Anta-Sarr-Image.jpg
   address: >
-    <p>Department of Earth Sciences</p>
-    <p>1272 University of Oregon</p>
-    <p>Eugene, OR | 97 403</p>
-    <p>UNITED STATES</p>
+    <p>CEREGE</p>
+    <p>Technopole Environnement</p>
+    <p>Arbois-Méditerranée</p>
+    <p>Aix-en-Provence</p>
+    <p>FRANCE</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
