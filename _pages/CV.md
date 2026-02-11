@@ -16,6 +16,9 @@ horizontal: false
 `From 02.2026` __CNRS Research Scientist__ \
 CEREGE, Aix-en-Provence, FR
 
+`From 01.2026` __Courtesy Research Associate__ \
+University of Oregon, Dpt. of Earth Sciences, Eugene, USA 
+
 `11.2023 - 01.2026` __Postdoctoral Scholar__ in Paleoclimate Modeling \
 University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
 
