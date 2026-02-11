@@ -46,17 +46,6 @@ University Grenoble Alpes, ISTerre, Grenoble, FR  \
 -  PhD dissertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
 _[Supervision : L. Husson & P. Sepulchre]_
 
-`09.2014 - 08.2015` __MsC__ in Earth Sciences \
-University Grenoble Alpes, University Grenoble Alpes, Chambery, FR 
-
--  MsC thesis : Estimating sidewall erosion in the Mont Blanc massif (France): insights from in-situ produced 10Be erosion rates
-
-`09.2010 - 08.2015` __Engineering Degree__ in Geology & Geophysics \
-UniLasalle, Beauvais, FR
-
--  BsC thesis : Characterizing low grade metamorphism using clay minerals: application to Southern Vosges (France)
-<p>&nbsp;</p>
-
 #### Fellowships & Grants
 -  `2024`__BQR research project__ (Internal call ISTerre lab.) [4k€ - co-PI]
 -  `2023`__BQR research project__ (Internal call ISTerre lab.) [3k€ - PI]
