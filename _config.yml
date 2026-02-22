@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Anta-Clarisse
 middle_name: 
 last_name: Sarr
-email: antasarr@uoregon.edu
+email: sarr@cerege.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Post-doctoral scholar @ University of Oregon
+  Researcher at CEREGE/CNRS
 footer_text: >
 #  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
  
