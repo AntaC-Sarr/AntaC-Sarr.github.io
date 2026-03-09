@@ -9,7 +9,7 @@ nav: true
 
 __To think about ...__
 
-🎧 [Les mardis de l'égalité - Conferences on discrimination (in French)](https://www.lairedu.fr/collection/mardis-de-legalite/){:target="_blank"} 
+🎧 [Les mardis de l'égalité](https://www.lairedu.fr/collection/mardis-de-legalite/){:target="_blank"} - Conferences on discrimination (in French) 
 
 📋 [More and more molehills](https://blogs.egu.eu/geolog/2023/02/03/more-and-more-molehills-reflections-on-the-effect-of-accumulated-unconscious-gender-bias/){:target="_blank"} 
 
