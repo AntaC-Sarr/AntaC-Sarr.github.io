@@ -19,15 +19,12 @@ CEREGE, Aix-en-Provence, FR
 `From 01.2026` __Courtesy Research Associate__ \
 University of Oregon, Dpt. of Earth Sciences, Eugene, USA 
 
-`2019-2025` __Postdoctoral Researcher__
-- University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_ `11.2023 - 01.2026`
+`2019-2026` __Postdoctoral Researcher__
+- Poulsen group, Dpt. of Earth Sciences, University of Oregon, Eugene, USA `2023 - 2026`
 
-- University Grenoble Alpes, ISTerre, Grenoble, FR `11.2022 - 10.2023` 
+- LabEX Research Fellow, University Grenoble Alpes, ISTerre, Grenoble, FR `2022 - 2023` 
 
-- Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_ `10.2020 - 10.2022`
-
- 
-- CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_ `09.2019 - 09.2020`
+- Donnadieu group, CEREGE, Aix-en-Provence, FR `2019 - 2022`
 
 `2015-2018` __PhD Researcher__ \
 ISTerre | LSCE | University Grenoble Alpes, Grenoble, FR
