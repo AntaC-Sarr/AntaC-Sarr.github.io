@@ -26,6 +26,7 @@ University of Oregon, Dpt. of Earth Sciences, Eugene, USA
 
 - Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_ `10.2020 - 10.2022`
 
+ 
 - CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_ `09.2019 - 09.2020`
 
 `2015-2018` __PhD Researcher__ \
