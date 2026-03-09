@@ -19,28 +19,21 @@ CEREGE, Aix-en-Provence, FR
 `From 01.2026` __Courtesy Research Associate__ \
 University of Oregon, Dpt. of Earth Sciences, Eugene, USA 
 
-`11.2023 - 01.2026` __Postdoctoral Scholar__ in Paleoclimate Modeling \
+__Postdoctoral Researcher__\
+`11.2023 - 01.2026`
 University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
 
-- Paleoclimate modeling. Water Isotopes. Past warm climate. Ocean circulation.
+`11.2022 - 10.2023` 
+University Grenoble Alpes, ISTerre, Grenoble, FR 
 
-`11.2022 - 10.2023` __Research Fellow__ in Earth System Science \
-University Grenoble Alpes, ISTerre, Grenoble, FR \
-
-- Project on Solid Earth, Climate and Biosphere coupling, awarded by the _Observatoire des Sciences de l'Univers de Grenoble_
-  
-`10.2020 - 10.2022` __Postdoctoral Research Associate__ in Paleoclimate modeling\
+`10.2020 - 10.2022` 
 Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
--  Marine biogeochemical modeling. Earth' orbit eccentricity. Ocean seasonality.
-
-`09.2019 - 09.2020` __Postdoctoral Research Associate__ in Paleoclimate modeling \
+`09.2019 - 09.2020`
 CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
 
--  Marine biogeochemical modeling. Miocene climate. Monsoons.
-
-`09.2015 - 12.2018` __Ph.D Researcher__ in Earth Sciences \
-University Grenoble Alpes, ISTerre, Grenoble, FR  \
+`09.2015 - 12.2018` __Ph.D Researcher__ \
+University Grenoble Alpes, ISTerre, Grenoble, FR  
 & LSCE, Paris, FR 
 
 -  PhD dissertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
