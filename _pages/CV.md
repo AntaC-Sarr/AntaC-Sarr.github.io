@@ -19,32 +19,23 @@ CEREGE, Aix-en-Provence, FR
 `From 01.2026` __Courtesy Research Associate__ \
 University of Oregon, Dpt. of Earth Sciences, Eugene, USA 
 
-__Postdoctoral Researcher__\
-`11.2023 - 01.2026`
-University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_
+`2019-2025` __Postdoctoral Researcher__
+- University of Oregon, Dpt. of Earth Sciences, Eugene, USA _[C.J. Poulsen group]_ `11.2023 - 01.2026`
 
-`11.2022 - 10.2023` 
-University Grenoble Alpes, ISTerre, Grenoble, FR 
+- University Grenoble Alpes, ISTerre, Grenoble, FR `11.2022 - 10.2023` 
 
-`10.2020 - 10.2022` 
-Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
+- Aix-Marseille University | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_ `10.2020 - 10.2022`
 
-`09.2019 - 09.2020`
-CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_
+- CNRS | CEREGE, Aix-en-Provence, FR _[Y. Donnadieu group]_ `09.2019 - 09.2020`
 
-`09.2015 - 12.2018` __Ph.D Researcher__ \
-University Grenoble Alpes, ISTerre, Grenoble, FR  
-& LSCE, Paris, FR 
-
--  PhD dissertation : Quaternary subsidence in South-East Asia: from mantle dynamics to atmospheric circulation \
-_[Supervision : L. Husson & P. Sepulchre]_
+`2015-2018` __PhD Researcher__ \
+ISTerre | LSCE | University Grenoble Alpes, Grenoble, FR
 
 #### Fellowships & Grants
 -  `2024`__BQR research project__ (Internal call ISTerre lab.) [4k€ - co-PI]
 -  `2023`__BQR research project__ (Internal call ISTerre lab.) [3k€ - PI]
-- `2022-2024`LabEX OSUG (U. Grenoble Alpes, FR) __Postdoc Grant for "Strategic Projects"__ [103 k€ - design and write the project]
+- `2022-2024`LabEX OSUG (U. Grenoble Alpes, FR) __Postdoctoral Fellowship for "Strategic Projects"__ [103 k€ - design and write the project]
 - `2015 - 2018` __PhD Scholarship__ (90 k€ - French Ministry of Education and Research)
-
 - `2018` __ECORD Scholarship__ to attend the Urbino Summer School in Paleoclimatology
 
 _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (GENCI - CEA, FR) (2017, 2019, 2020, 2021, 2022 hours attribution - Project PI: P. Sepulchre, LSCE)_
