@@ -5,6 +5,18 @@ title: Resources
 description: 
 nav: true
 ---
+
+
+__To think about ...__
+
+🎧 [Les mardis de l'égalité - Conferences on discrimination (in French)](https://www.lairedu.fr/collection/mardis-de-legalite/){:target="_blank"} 
+
+📋 [More and more molehills](https://blogs.egu.eu/geolog/2023/02/03/more-and-more-molehills-reflections-on-the-effect-of-accumulated-unconscious-gender-bias/){:target="_blank"} 
+
+🎨 [Did This Really Happen](https://didthisreallyhappen.net){:target="_blank"}
+
+🎧 [Black Women Don't Owe You Likeability ...](https://open.spotify.com/episode/0bG6JSTnZJljLp4lLi4B6S?si=e824173666544ecf){:target="_blank"} 
+
 <p>&nbsp;</p>
 
 __Around publications__ :
@@ -23,13 +35,6 @@ __Work by colleagues that worth being read and followed__ :
 
 <p>&nbsp;</p>
 
-__To think about ...__
-
-📋 [More and more molehills](https://blogs.egu.eu/geolog/2023/02/03/more-and-more-molehills-reflections-on-the-effect-of-accumulated-unconscious-gender-bias/){:target="_blank"} 
-
-🎨 [Did This Really Happen](https://didthisreallyhappen.net){:target="_blank"}
-
-🎧 [Black Women Don't Owe You Likeability ...](https://open.spotify.com/episode/0bG6JSTnZJljLp4lLi4B6S?si=e824173666544ecf){:target="_blank"} 
 
 
 
