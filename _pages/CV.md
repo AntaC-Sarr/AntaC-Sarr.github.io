@@ -40,6 +40,15 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 <p>&nbsp;</p>
 
+#### Editorial Services
+
+- `2026-Present` __Associate Editor__ at Paleoclimate and Paleoceanography (AGU)
+
+#### International level Leadership
+
+- `2026-Present` MioMIP Steering Committee Member 
+- `2026-Present` Co-lead of Working Group 7 ”Climate modeling” for TIMES (Time Integrated Matrix for Earth Science initiative - coordinator T. Westerhold, MARUM)
+
 #### Mentoring
 
 ###### Master students
@@ -50,7 +59,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 ###### PhD student (_significant mentoring involvment_)
 - __Quentin Pillot__ (University Aix-Marseille, FR) - 2020-2024 | _co-advisor, invited comittee member_
 
-### Teaching
+#### Teaching
 
 - [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP), Urbino, IT (2022-2024, 2026) - Invited instructor
   - _Climate of the Miocene_
