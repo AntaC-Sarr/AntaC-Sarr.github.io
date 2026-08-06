@@ -46,8 +46,8 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 #### International level Leadership
 
-- `2026-Present` MioMIP Steering Committee Member 
-- `2026-Present` Co-lead of Working Group 7 ”Climate modeling” for TIMES (Time Integrated Matrix for Earth Science initiative - coordinator T. Westerhold, MARUM)
+- `2026-Present` [DeeMIP-Miocene](https://www.deepmip.org/deepmip-miocene/){:target="_blank"} Steering Committee Member 
+- `2026-Present` Co-lead of Working Group 7 ”Climate modeling” for [TIMES](https://www.codd-home.net/times/){:target="_blank"} (Time Integrated Matrix for Earth Science initiative - coordinator T. Westerhold, MARUM)
 
 #### Mentoring
 
