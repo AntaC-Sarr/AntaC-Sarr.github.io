@@ -61,6 +61,9 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 - CNRS PALEOS Summer school, Aussois, FR (2026) - Guest Lecturer
   - _Past change in ocean circulation and monsoon_
   - _Model-data approach to assess dynamics of Past Warm periods_
+ 
+- Post-ICP15 workshop on Monsoon, NPCOR Goa, IND (2026) - Invited Lecturer
+  - _Topography & Asian Monsoons_
 
 - University Grenoble Alpes, FR (MsC Degree in Earth System Sciences) (2023, 2025)
   - _Solid Earth and Atmosphere_
