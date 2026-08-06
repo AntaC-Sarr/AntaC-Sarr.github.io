@@ -42,7 +42,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 #### Editorial Services
 
-- `2026-Present` __Associate Editor__ at Paleoclimate and Paleoceanography (AGU)
+- `2026-Present` __Associate Editor__ at Paleoceanography and Paleoclimatology (AGU)
 
 #### International level Leadership
 
