@@ -58,7 +58,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
   - _Climate modeling_
   - _Climate modeling 101_
     
--  CNRS PALEOS Summer school, Aussois, FR (2026) - Guest Lecturer
+- CNRS PALEOS Summer school, Aussois, FR (2026) - Guest Lecturer
   - _Past change in ocean circulation and monsoon_
   - _Model-data approach to assess dynamics of Past Warm periods_
 
