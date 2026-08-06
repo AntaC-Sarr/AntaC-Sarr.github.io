@@ -52,10 +52,15 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 
 ### Teaching
 
-- [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP), Urbino, IT (2022-2024) - Invited instructor
+- [Urbino Summer School](https://urbinossp.wordpress.com/){:target="_blank"} on Paleoclimate and Paleoceanography (USSP), Urbino, IT (2022-2024, 2026) - Invited instructor
   - _Climate of the Miocene_
+  - _Neogene Warm Climate_
   - _Climate modeling_
   - _Climate modeling 101_
+    
+-  CNRS PALEOS Summer school, Aussois, FR (2026) - Guest Lecturer
+  - _Past change in ocean circulation and monsoon_
+  - _Model-data approach to assess dynamics of Past Warm periods_
 
 - University Grenoble Alpes, FR (MsC Degree in Earth System Sciences) (2023, 2025)
   - _Solid Earth and Atmosphere_
