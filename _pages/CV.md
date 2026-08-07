@@ -8,7 +8,7 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-📄 PDF version [here](/assets/pdf/CV_0825Up.pdf){:target="_blank"}
+📄 PDF version [here](/assets/pdf/CVSARR_0826.pdf){:target="_blank"}
 
 #### Research Experiences
 <p></p>
