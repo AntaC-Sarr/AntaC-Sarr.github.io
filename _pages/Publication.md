@@ -74,7 +74,7 @@ __[12]__ 🌊 Beaufort, L., Bolton, C., __Sarr A-C.__, Sucheras-Marx, B., Rosent
  
  - View also _News & Views_ by R. Rickaby  [[link](https://www.nature.com/articles/d41586-021-03549-5){:target="_blank"}]
 
-###### `2021`
+###### `Before 2021`
 
 __[11]__ 🐒 Salles, T., Mallard, C., Husson, L., Zahirovic, S., __Sarr, A-C.__, Sepulchre, P. Quaternary landscape dynamics boosted species dispersal in SE Asia (2021), Communications earth & environment 2(240). [[link](https://www.nature.com/articles/s43247-021-00311-7){:target="_blank"}]
 
@@ -82,13 +82,9 @@ __[11]__ 🐒 Salles, T., Mallard, C., Husson, L., Zahirovic, S., __Sarr, A-C.__
 
 __[10]__ 🌦 Burls, N.J., Bradshaw, C.D., De Boer, A.M., Herold, N., Huber, M., Pound, M., Donnadieu, Y., Farnsworth, A., Frigola, A., Gasson, E., von der Heydt, A.S., Hutchinson, D.K., Knorr, G., Lawrence, K.T., Lear, C.H., Li, Xiangyu, Lohmann, G., Lunt, D.J., Marzocchi, A., Prange, M., Riihimaki, C.A, __Sarr A.-C.__, Siler, N. and Zhang, Z., Simulating Miocene warmth: insights from an opportunistic Multi-Model ensemble (MioMIP1) (2021). Paleoceanography and Paleoclimatology 35(6):e2020PA004054. [[link](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020PA004054){:target="_blank"}]
 
-###### `2020`
-
 __[9]__ 🌦 Sepulchre, P., Caubel, A., Ladant, J-B., Bopp, L., Boucher, O., Braconnot, P., Brockman, P., Donnadieu, Y., Dufresne, J-L. Cozic, A., Estella-Perez, V., Ethé, C., Fluteau, F., Fromang, S., Gastineau, G., Ghattas, J., Hourdin, F., Kageyama, M., Marti, O., Meuredesoif, Y., Mignot, J., Khodri, M.,__Sarr, A-C.__, Servonnat, J., Swingedouw, D., Szopa, S and Tardif, D. IPSL-CM5A2. An Earth System Model designed for long simulation of past and future climates (2020). Geoscientific Model Development. [[link](https://gmd.copernicus.org/articles/13/3011/2020/){:target="_blank"}]
 
 __[8]__ 🐒 Husson, L., Boucher F., __Sarr, A-C.__, Sepulchre, P., Cahyarini, S.Y.  Evidence of Sundaland’s subsidence requires revisiting its biogeography (2020). Journal of Biogeography,47(4):843-853 [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/jbi.13762){:target="_blank"}]
-
-###### `Before 2019`
 
 __[7]__ 🌏 __Sarr, A-C.__, Husson, L., Sepulchre, P., Pastier, A.-M, Pedoja, K., Elliot, M., Arias-Ruiz, C., Solihuddin, T., Aribowo, S., Susilohadi (2019). Subsiding Sundaland: REPLY to comment by R. Parham. Geology, 47(7):e470-e470 [[link](https://pubs.geoscienceworld.org/gsa/geology/article/47/7/e470/571723/Subsiding-Sundaland-REPLY){:target="_blank"}]
 
