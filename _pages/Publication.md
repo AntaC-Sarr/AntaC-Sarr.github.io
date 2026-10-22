@@ -10,11 +10,13 @@ nav: true
 _‡ PhD students_
 
 ##### Under review / Preprints
+__[33]__ 🌊 __Sarr, A-C.__, Thirumalai, K., Acosta, R. P., Lee, D., and Poulsen, C. J. Regional low-latitude planktic δ18O and Mg/Ca proxy response to changes in middle Miocene global ocean overturning circulation, Climate of the Past Discussions. [[preprint](https://doi.org/10.5194/egusphere-2026-6271){:target="_blank"}]
+
 __[32]__ 🌐 Zhu, F., Amrhein D. E., Zhu, J., Tierney, J.E., __Sarr, A-C.__, Macarewich, S., Meegan-Kumar, D., Poulsen, C.J., Zeller, E., Baldwin, J.W., Feng, R., Tessler, M., Otto-Bliesner, B. An Online Data Assimilation Framework for Reconstructing Paleoclimates in CESM. _under review_ at JAMES [[preprint](https://essopenarchive.org/doi/full/10.22541/essoar.15007965/v1){:target="_blank"}]
 
 __[31]__ 🌐 Burls, N., Bradshaw, C.D, Wright, N. M., Acosta, R.P., Gasson, E., Stap, L., Ramstein, G., Halberstadt, A. R. __et al.__, MioMIP2: Experimental design for Phase 1 & 2 of the Miocene component of the CMIP7/PMIP7 Deep-time Model Intercomparison Project (DeepMIP-Miocene). _in discussion_ at GMD. [[preprint](https://egusphere.copernicus.org/preprints/2026/egusphere-2026-3595/){:target="_blank"}]
 
-__[30]__ 🌊 Papadomanolaki., N.M., __Sarr, A-C.__, Gramoullé, A., Laugié, M., Ladant, J.-B., Donnadieu, Y. Mesozoic to Cenozoic bathymetric and gateway changes reduced Atlantic Ocean sensitivity to deoxygenation. _in discussion_ at Climate of the Past. [[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3458/){:target="_blank"}].
+__[30]__ 🌊 Papadomanolaki., N.M., __Sarr, A-C.__, Gramoullé, A., Laugié, M., Ladant, J.-B., Donnadieu, Y. Mesozoic to Cenozoic bathymetric and gateway changes reduced Atlantic Ocean sensitivity to deoxygenation. _under review_ in Paleoceanography and Paleoclimatology. [[preprint](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-3458/){:target="_blank"}].
 <p>&nbsp;</p>
 
 ##### Published
