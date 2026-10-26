@@ -113,21 +113,22 @@ __[1]__ ⛰🌦 Fluteau, F., Tardif, D., __Sarr, A-C.__, Le Hir, G., Donnadieu, 
 <p>&nbsp;</p>
 
 ##### Data Sets
+__[7]__ __Sarr, A-C.__, Thirumalai, K., Acosta, R.P., Lee, D. (2026). Code for Figures, Simulations and Proxy System Model outputs for iCESM1.2 Miocene simulations with multiple Meridional Overturning Circulation states. [Zenodo](https://doi.org/10.5281/zenodo.23590502).
 
 __[6]__ __Sarr, A-C.__, Poulsen, C. and Do, E.L (2025). iCESM1.2 Cenomanian Turonian simulations with varying
-pCO2. [Zenodo.](https://doi.org/10.5281/zenodo.15191756).
+pCO2. [Zenodo](https://doi.org/10.5281/zenodo.15191756).
 
 __[5]__  __Sarr, A-C.__. and Beaufort, L. (2024) . Response to Sea Surface Temperature and Primary Productivity to
-change in Earth's Orbit Eccentricity – Simulations. [Zenodo.](https://doi.org/10.5281/zenodo.10951600).
+change in Earth's Orbit Eccentricity – Simulations. [Zenodo](https://doi.org/10.5281/zenodo.10951600).
 
 __[4]__  Martinot, C., Bolton, C.T., __Sarr, A-C.__, et al. (2022): Climatic simulations from the equatorial Indian
-Ocean. [PANGAEA.](https://doi.org/10.1594/PANGAEA.941973)
+Ocean. [PANGAEA](https://doi.org/10.1594/PANGAEA.941973)
 
 __[3]__  __Sarr, A-C.__ & Laugié, M. (2022) Late Cretaceous (Cenomanian-Turonian) ocean deoxygenation
-variability in response to idealized orbital configurations. [Zenodo.](https://doi.org/10.5281/zenodo.6641306).
+variability in response to idealized orbital configurations. [Zenodo](https://doi.org/10.5281/zenodo.6641306).
 
 __[2]__  __Sarr, A-C.__ (2022). Evolution of Indian Ocean Paleoceanography and South-East Asian Climate during
-the Miocene in response to change in regional topography. [Zenodo.](https://doi.org/10.5281/zenodo.5727042). 
+the Miocene in response to change in regional topography. [Zenodo](https://doi.org/10.5281/zenodo.5727042). 
 
 __[1]__  Beaufort, L., Bolton, C., __Sarr, A-C.__ (2021). Morphometry, and mass accumulation rates of Indo-Pacific
-Pleistocene coccoliths and associated Climatic Simulations. [SEANOE.](https://doi.org/10.17882/84031). 
+Pleistocene coccoliths and associated Climatic Simulations. [SEANOE](https://doi.org/10.17882/84031). 
