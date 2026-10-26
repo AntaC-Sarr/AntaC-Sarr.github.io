@@ -52,7 +52,7 @@ _> 11 millions computing hours on Irene supercomputer from TGCC HPC facilities (
 #### Mentoring
 
 ###### PhD students (_significant mentoring involvment_)
-- __Nicolas Tharaud__ (Paris Saclay University, FR) - 2026-2029 | _co-supervisor (w/ P. Sepulchre & JB Ladant, LSCE)
+- __Nicolas Tharaud__ (Paris Saclay University, FR) - 2026-2029 | _co-supervisor (w/ P. Sepulchre & JB Ladant, LSCE)_
 - __Quentin Pillot__ (University Aix-Marseille, FR) - 2020-2024 | _co-advisor, invited comittee member_
   
 ###### Master students
